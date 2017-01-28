@@ -5,34 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/1intro/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/2if/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/3while/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/4for/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/5break/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/6cotinue/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/05-function/1Fucntion/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/05-function/2/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/05-function/3/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/05-function/4/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/05-function/5/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/05-function/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/07-data-structure-acquainted/1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jike/07-data-structure-acquainted/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/04_Python-control-flow/4break.py" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/5break/4break.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/04_Python-control-flow/4continue.py" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/6cotinue/4continue.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/04_Python-control-flow/4for.py" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/4for/4for.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/04_Python-control-flow/4if.py" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/2if/4if.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/04_Python-control-flow/4kongzhiliu.py" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/1intro/4kongzhiliu.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/04_Python-control-flow/4while.py" afterPath="$PROJECT_DIR$/jike/04_Python-control-flow/3while/4while.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/05-function/5hsgn.py" afterPath="$PROJECT_DIR$/jike/05-function/1Fucntion/5hsgn.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/05-function/5hssyyfhz.py" afterPath="$PROJECT_DIR$/jike/05-function/4/5hssyyfhz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/05-function/5qjblyjbbl.py" afterPath="$PROJECT_DIR$/jike/05-function/3/5qjblyjbbl.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/05-function/5wdzfc.py" afterPath="$PROJECT_DIR$/jike/05-function/5/5wdzfc.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/05-function/5xcysc.py" afterPath="$PROJECT_DIR$/jike/05-function/2/5xcysc.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jike/07-data-structure-acquainted/7sjjgsl.py" afterPath="$PROJECT_DIR$/jike/07-data-structure-acquainted/1/7sjjgsl.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -981,7 +953,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485629515627</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="pp">
+      <created>1485643835078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1485643835078</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
