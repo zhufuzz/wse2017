@@ -1,0 +1,8 @@
+# coding=GB2312
+#ÈýÒýºÅ
+c1="""he
+she
+my
+you are
+hello"""
+print c1
