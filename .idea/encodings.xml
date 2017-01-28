@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/jike/02_syntax/2luojihangyuwulihang.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2string/2zfuchuandechongfu.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2string/2zhuanyifu.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2string/2ziranzfuchuan.py" charset="GB2312" />
@@ -11,10 +10,11 @@
     <file url="file://$PROJECT_DIR$/jike/02_syntax/3datatype/2yuanzhu1.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/3datatype/2yuanzhu2.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/3datatype/2zidian.py" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3shenmeshibiaoda1.py" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3shenmeshibiaodashi.py" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3youxianjishili.py" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3youxianjishiyongguilv.py" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3youxianjishiyongxiaojiqiao.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jike/02_syntax/6line-indent/2luojihangyuwulihang.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/4/3youxianjishili.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/5/3youxianjishiyongguilv.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/5/3youxianjishiyongxiaojiqiao.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/6/3shenmeshibiaoda1.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/6/3shenmeshibiaodashi.py" charset="GB2312" />
   </component>
 </project>
