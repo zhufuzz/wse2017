@@ -1,7 +1,7 @@
+# -*- coding:utf-8 -*-   x
+#å‡½æ•°å½¢å‚ä¸å®å‚
 
-#º¯ÊıĞÎ²ÎÓëÊµ²Î
-
-#²ÎÊıµÄ¸ÅÄî
+#å‚æ•°çš„æ¦‚å¿µ
 
 #print len()
 
@@ -13,7 +13,7 @@ print len(a)
 
 
 
-#Ê²Ã´ÊÇĞÎ²Î
+#ä»€ä¹ˆæ˜¯å½¢å‚
 '''
 def function1(a,b):
     if a>b:
@@ -24,7 +24,7 @@ def function1(a,b):
 
 
 
-#Ê²Ã´ÊÇÊµ²Î
+#ä»€ä¹ˆæ˜¯å®å‚
 '''
 def function1(a,b):
     if a>b:
@@ -35,28 +35,28 @@ function1(1,3)
 '''
 
 
-#²ÎÊıµÄ´«µİ
-#µÚÒ»ÖĞ£¬×î¼òµ¥µÄ´«µİ
+#å‚æ•°çš„ä¼ é€’
+#ç¬¬ä¸€ä¸­ï¼Œæœ€ç®€å•çš„ä¼ é€’
 '''
 def function(a,b):
     if a>b:
-        print "Ç°ÃæÕâ¸öÊı´óÓÚºóÃæÕâ¸öÊı"
+        print "å‰é¢è¿™ä¸ªæ•°å¤§äºåé¢è¿™ä¸ªæ•°"
     else:
-        print "ºóÃæÕâ¸öÊı±È½Ï´ó"
+        print "åé¢è¿™ä¸ªæ•°æ¯”è¾ƒå¤§"
 function(7,8)
 '''
 
-#µÚ¶şÖÖ£¬¸³Öµ´«µİ
-'''
+#ç¬¬äºŒç§ï¼Œèµ‹å€¼ä¼ é€’
+
 def function(a,b=8):
     print a
     print b
-#function(1)
+function(1)
 function(1,2)
-'''
 
 
-#¹Ø¼ü²ÎÊı
+
+#å…³é”®å‚æ•°
 def function(a=1,b=6,c=7):
     # type: (object, object, object) -> object
     print a
@@ -65,10 +65,10 @@ def function(a=1,b=6,c=7):
 #function(5)
 #function(b=7,a=8)
 #function(5,c=2,b=3)
-#function(b=4,c=2,a=1)
+function(b=4,c=2,a=1)
 
-'''µ«ÊÇÒª×¢Òâ£¬²ÎÊı²»ÄÜ³åÍ»'''
-function(b=2,c=3,2)
+'''ä½†æ˜¯è¦æ³¨æ„ï¼Œå‚æ•°ä¸èƒ½å†²çª'''
+#function(b=2,c=3,2)
 
 
 

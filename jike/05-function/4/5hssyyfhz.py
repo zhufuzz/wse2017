@@ -28,8 +28,8 @@ def test():
 def test2(i,j):
     k=i*j
     return (i,j,k)
-#x=test2(4,5)
-#print x
+x=test2(4,5)
+print x
 
 y,z,m=test2(4,5)
 print y

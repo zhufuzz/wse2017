@@ -23,8 +23,8 @@ else 或者以上情况都不是：
 
 #一种情况的if用法
 a=8
-#if a==8:                         #这里的等号注意是==
-#    print "hello"
+if a==8:                         #这里的等号注意是==
+    print "hello"
 
 
 #if a!=8:
@@ -32,18 +32,18 @@ a=8
 
 
 #两种选择情况下的if用法
-'''
+
 a=8
 if a==8:
     print "She"
 else:
     print "He"
-'''
+
 
 
 
 #三种选择情况下的if用法
-'''
+
 a=5
 if a==7:
     print "I"
@@ -53,7 +53,7 @@ elif a<6:
     print "hello"
 else:
     print "she"
-'''
+
 
 #if语句使用要点
 #“要点：各分支尽量不重复，并且尽量包含全部可能性”

@@ -24,13 +24,13 @@ while a:
 '''
 
 #第二个是有else部分的
-'''
+
 b=False
 while b:
     print "ABC"
 else:
     print "DEF"
-'''
+
 
 
 
@@ -54,4 +54,4 @@ else:
 
 
     
-    
+

@@ -7,6 +7,6 @@ def d(i,j):
     k=i*j
     return k
 
-#print d.__doc__
+print d.__doc__
 
 help(d)

@@ -25,8 +25,8 @@ i=9
 def func3():
     global i
     i=7
-    #print i
-#i=9
+    print i
+i=9
 func3()
 i=9
 print i
