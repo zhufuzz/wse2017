@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-   x
+# coding=GB2312
 print("This line will be printed.")
 
 
@@ -32,5 +32,14 @@ zidian={'name':'weiwei', 'home':'guilin','like':'music'}
 
 print zidian
 print zidian['name']
-zidian["yes":"bool"]
+zidian['hehe'] = 'xixi'
 print zidian
+
+
+zidian2 ={"ĞÕÃû":"Î¢Î¢","¼®¹á":"¹ğÁÖ"}
+print zidian2
+
+zidian2["°®ºÃ"]="ÒôÀÖ"
+print zidian2
+
+

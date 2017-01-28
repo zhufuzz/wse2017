@@ -1,15 +1,14 @@
-# coding=GB2312
-#Âß¼­ÐÐÓëÎïÀíÐÐ
+# -*- coding:utf-8 -*-   x#é€»è¾‘è¡Œä¸Žç‰©ç†è¡Œ
 
-#ÒÔÏÂÊÇ3¸öÎïÀíÐÐ
+#ä»¥ä¸‹æ˜¯3ä¸ªç‰©ç†è¡Œ
 print "abc"
 print "789"
 print "777"
 
-#ÒÔÏÂÊÇ1¸öÎïÀíÐÐ£¬3¸öÂß¼­ÐÐ
+#ä»¥ä¸‹æ˜¯1ä¸ªç‰©ç†è¡Œï¼Œ3ä¸ªé€»è¾‘è¡Œ
 print "abc";print "789";print "777"
 
-#ÒÔÏÂÊÇ1¸öÂß¼­ÐÐ£¬3¸öÎïÀíÐÐ
-print '''ÕâÀïÊÇ
-ÓÉ¼«¿ÍÑ§Ôº
-Ìá¹©µÄPython½Ì³Ì£¡'''
+#ä»¥ä¸‹æ˜¯1ä¸ªé€»è¾‘è¡Œï¼Œ3ä¸ªç‰©ç†è¡Œ
+print '''è¿™é‡Œæ˜¯
+ç”±æžå®¢å­¦é™¢
+æä¾›çš„Pythonæ•™ç¨‹ï¼'''

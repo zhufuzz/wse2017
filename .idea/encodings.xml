@@ -4,10 +4,10 @@
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2jihe.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2liebiao.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2luojihangyuwulihang.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/jike/02_syntax/2string/2zhuanyifu.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2yuanzhu1.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2yuanzhu2.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2zfuchuandechongfu.py" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/jike/02_syntax/2zhuanyifu.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2zidian.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2ziranzfuchuan.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/02_syntax/2zizifuchuan.py" charset="GB2312" />
@@ -16,6 +16,5 @@
     <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3youxianjishili.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3youxianjishiyongguilv.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/jike/03-operators-and-expressions/3youxianjishiyongxiaojiqiao.py" charset="GB2312" />
-    <file url="PROJECT" charset="GB2312" />
   </component>
 </project>
