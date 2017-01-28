@@ -8,4 +8,9 @@ c3=c1[7]
 c4=c1[:2]
 c5=c1[2:]
 c6=c1[4:7]
+print c1
+print c2
+print c3
+print c4
+print c5
 print c6
