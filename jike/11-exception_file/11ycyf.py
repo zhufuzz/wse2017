@@ -21,3 +21,17 @@ except RhhError,a:
 
 
 #3/自定义一个多参数的异常并用raise引发，比如我们可以定义一个异常，当x>2或者x+y>7的时候都会引发该异常
+
+class HhhError(Exception):
+    def __init__(self, x, y):
+        Exception.__init__(self, x, y)
+        self.x = x
+        self.y = y
+
+try:
+    x=3
+    y=1
+    if x > 2 or x + y > 7:
+        raise HhhError(x,y)
+except HhhError:
+    print str(x) + str(y)

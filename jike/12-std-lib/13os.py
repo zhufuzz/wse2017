@@ -3,10 +3,10 @@
 import os
 
 #获取操作系统平台
-#print os.name
+print os.name
 
 #获取工作目录
-#print os.getcwd()
+print os.getcwd()
 
 #获取某个目录下的所有文件名
 #print os.listdir("c:/python27")
