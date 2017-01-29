@@ -8,17 +8,19 @@ class fuqin:
 class daerzi(fuqin):
     def eat(self):
         print "我还很能吃"
-class xiaoerzi(fuqin):
+class xiaoerzi(fuqin, daerzi):
     def noeat(self):
         print "我吃得很少"
 daerzi=daerzi()
-#daerzi.shufa()
-#daerzi.eat()
+daerzi.shufa()
+daerzi.eat()
+
+print daerzi.__class__.__dict__
 
 xiaoerzi=xiaoerzi()
-#xiaoerzi.shufa()
-#xiaoerzi.noeat()   
-
+xiaoerzi.shufa()
+xiaoerzi.noeat()
+xiaoerzi.eat()
 #以上大小儿子只继承了父亲的特点，也就是只有一个父类继承，叫做单继承。
 #那么，一个子类可以继承多个父类吗？当然是可以的。
 
@@ -31,6 +33,9 @@ class muniu:
 class gongniu:
     def bengpao(self):
         print "我会奔跑"
+
+        def chicao(self):
+            print "会吃草"
 class daniu(muniu,gongniu):
     pass
 class xiaoniu(muniu):
@@ -39,7 +44,7 @@ daniu=daniu()
 #daniu.chicao()
 #daniu.bengpao()
 xiaoniu=xiaoniu()
-#xiaoniu.chicao()
+xiaoniu.chicao()
 #xiaoniu.bengpao()
 
 #多继承冲突解决

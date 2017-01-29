@@ -7,3 +7,8 @@ def xzpx(arr):    #选择排序
             if arr[j] < arr[k]:
                 k= j
         arr[i], arr[k] = arr[k], arr[i]       #交换位置
+
+
+arr=[2,55,4,34,67,75,9]
+xzpx(arr)
+print arr
