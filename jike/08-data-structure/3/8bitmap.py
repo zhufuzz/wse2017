@@ -1,5 +1,7 @@
 # -*- coding:utf-8 -*-   x
 #bitmap的实现
+
+
 class Bitmap():
     def __init__(self, max):
         self.size  = int((max+31 - 1) / 31)

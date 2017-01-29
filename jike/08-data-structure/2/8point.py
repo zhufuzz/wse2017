@@ -1,11 +1,14 @@
-# -*- coding:utf-8 -*-   x
-#链表的实现（单向链表）
+# -*- coding:utf-8 -*-
+
+
 class jd():
     def __init__(self,data):
         self.data=data
         self.next=None
+
     
 class Linklist():
+
     def __init__(self,jd2):
         self.head=jd2
         self.head.next=None
@@ -25,3 +28,11 @@ class Linklist():
                 linkstr+=str(jd2.data)
             jd2=jd2.next
         print linkstr
+
+jd1=jd(7)
+jd2=jd("Hello")
+jd3=jd(8899)
+x=Linklist(jd1)
+x.add(jd3)
+x.add(jd2)
+x.view()

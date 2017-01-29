@@ -3,11 +3,11 @@
 
 #树的基本构造
 Tree=[2,3,[58,6,[5]]]
-#print Tree[0]
+print Tree[0]
 #print Tree[1]
-#print Tree[2]
+print Tree[2]
 Tree2=Tree[2]
-#print Tree2[0]
+print Tree2[0]
 
 #二叉树的构造
 '''
@@ -26,20 +26,27 @@ jd6=(no,no,57)
 jd7=(no,no,58)
 但是要注意，写的时候倒过来写。
 '''
+
+
 class TRee():
+
     def __init__(self,leftjd=0,rightjd=0,data=0):
         self.leftjd=leftjd;
         self.rightjd=rightjd;
         self.data=data;
 
+
 class Btree():
+
     def __init__(self,base=0):
         self.base=base
+
     def empty(self):
         if self.base is 0:
             return True
         else:
             return False
+
     def qout(self,jd):
         """前序遍历，NLR，根左右"""
         if jd==0:
@@ -47,6 +54,7 @@ class Btree():
         print jd.data
         self.qout(jd.leftjd)
         self.qout(jd.rightjd)
+
     def mout(self,jd):
         """中序遍历，LNR，左根右"""
         if jd==0:
@@ -54,6 +62,7 @@ class Btree():
         self.mout(jd.leftjd)
         print jd.data
         self.mout(jd.rightjd)
+
     def hout(self,jd):
         """后序遍历，LRN，左右根"""
         if jd==0:
@@ -61,3 +70,9 @@ class Btree():
         self.hout(jd.leftjd)
         self.hout(jd.rightjd)
         print jd.data
+
+jd1=TRee(data=8)
+jd2=TRee(data=9)
+base=TRee(jd1,jd2,7)
+x=Btree(base)
+x.qout(x.base)
