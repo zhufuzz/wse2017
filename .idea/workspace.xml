@@ -7,364 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/img/validate.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/img/validate.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/boxsizer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/flexgridsizer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/gridbagsizer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/gridbagsizerøÿº˛∑÷≤º.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/gridsizer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/python.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Master/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/gridbagsizerøÿº˛∑÷≤º.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/section3/py2exe-0.6.9.win32-py2.7.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/Test_ScreenShot/clipboard.bmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/Test_ScreenShot/screenShots.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Master/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/qshell.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/util/qshell.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/gridbagsizerøÿº˛∑÷≤º.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/50e452c3504a6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/qshell.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/qshell/qshell.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/uploads/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/uploads/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/mutyherry.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/company.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/info.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/jikexueyuan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/tieba.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/mutyherry.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/content.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/python-dis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/test-special2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/test_regular.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/test_special.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/tiebaspider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/xpath_regular.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/xpath_special.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/class_login.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/spider_jikexueyuan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/spider_login.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/xxoohelper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/doubanmovie.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders/doubanspider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/doubantest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/file/douban.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/program.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/controlDB.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/spiders/novspider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/novelspider.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/novelspider/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/novelspider/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/novelspider/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/novelspider/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/novelspider/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/novelspider/spiders/novspider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/jsreader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/spiders/tvurl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/.idea/program.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/conf.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pcmd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pyapi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/.idea/MCC.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/_config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/mcc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/configReader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/excutor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/mailHelper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/mccLog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/.idea/program.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/example1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/example2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/js/stickUp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/template1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/template2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/util/DataBaseManager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/webControl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/webControlWithDataBase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/.idea/program.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/_config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/static/js/stickUp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/templates/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/DataBaseManager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/configReader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/excutor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/mccLog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/wcc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/webControlWithDataBase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/.idea/program.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/example1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/example3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/example4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/.idea/program.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Master/Master.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Master/MasterSocket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Master/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/Slave.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/SlaveSocket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/_config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/util/configReader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/util/excutor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/util/mccLog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/section3/hideConsole.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/section3/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/server/Server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/server/simpleServer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/server/util/SocketThread.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/server/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/.idea/program.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/Test_ScreenShot/advancedHelper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/Test_ScreenShot/printScreen_PIL.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Master/Master.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Master/MasterSocket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Master/SlaveClipBoard.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Master/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/Slave.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/SlaveSocket.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/_config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/util/ClipboardHelper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/util/ScreenShotter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/util/configReader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/util/excutor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/client_Slave/util/mccLog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/advancedHelper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/fileServer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/printScreen_PIL.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/readWriteClipboard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/uploadImg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/server/Server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/server/simpleServer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/server/util/SocketThread.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/server/util/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/basic_re.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/jkxy_class1.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/jkxy_class1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/0.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/0.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/1.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/10.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/11.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/12.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/13.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/14.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/15.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/16.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/17.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/18.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/18.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/19.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/19.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/2.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/20.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/20.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/21.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/21.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/22.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/22.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/23.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/23.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/24.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/24.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/25.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/25.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/26.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/26.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/27.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/27.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/28.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/28.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/29.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/29.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/3.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/30.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/30.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/31.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/31.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/32.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/32.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/33.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/33.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/34.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/34.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/35.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/35.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/36.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/36.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/37.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/37.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/38.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/38.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/39.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/39.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/4.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/40.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/40.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/41.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/41.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/42.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/42.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/43.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/43.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/44.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/44.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/45.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/45.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/46.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/46.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/47.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/47.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/5.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/6.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/7.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/8.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/pic/9.jpg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/picdownloader.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/picdownloader.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/re.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/re.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/source.txt" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/source.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/text.txt" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/text.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx/usere.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/usere.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_1/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_1/requests_t.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_2/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_2/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/templates/authorize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_restful_API/python_restful_API_3/example-oauth2-server-master/templates/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -579,34 +234,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Python_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -629,11 +256,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_restful_API" />
       <recent name="$PROJECT_DIR$/Jike_Crawler_kingname" />
       <recent name="$PROJECT_DIR$/JikePathon" />
       <recent name="$PROJECT_DIR$/jike/10-algo" />
       <recent name="$PROJECT_DIR$/jike/09-Modules" />
-      <recent name="$PROJECT_DIR$/jike/08-data-structure" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jike/10-algo/6" />
@@ -1074,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486608308613</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="pp">
+      <created>1486609729276</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1486609729276</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
