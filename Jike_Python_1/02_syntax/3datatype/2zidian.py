@@ -7,3 +7,8 @@ print k["籍贯"]
 k["爱好"]="音乐"
 print k["姓名"]
 print k["爱好"]
+
+print k
+
+print k.keys()
+print k.values()

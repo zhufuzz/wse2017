@@ -25,8 +25,8 @@ for i in [1,2,8,9,0]:
 #学会使用range函数，第二个for语句
 a=range(1,5)
 print a
-for i in range(1,3):
-    print "hello"
+for i in range(-2,3):
+    print "hello" + str(i)
 
 
 
