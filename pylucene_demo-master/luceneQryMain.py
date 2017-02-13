@@ -20,18 +20,42 @@
 luceneIndexer(docdir,indir):IndexDocuments from a directory.
 luceneRetriver(queryString)：执行一次查询，queryString为搜索句子
 """
-import lucene
-from lucene import \
-    SimpleFSDirectory, System, File, \
-    Document, Field, StandardAnalyzer, IndexSearcher, Version, QueryParser
+# import lucene
+# from lucene import \
+#     SimpleFSDirectory, System, File, \
+#     Document, Field, StandardAnalyzer, IndexSearcher, Version, QueryParser
+
+import sys, os, lucene
+
+from java.nio.file import Paths
+from org.apache.lucene.analysis.standard import StandardAnalyzer
+from org.apache.lucene.index import DirectoryReader
+from org.apache.lucene.queryparser.classic import QueryParser
+from org.apache.lucene.store import SimpleFSDirectory
+from org.apache.lucene.search import IndexSearcher
+
+import sys, os, lucene
+
+from string import Template
+from datetime import datetime
+from getopt import getopt, GetoptError
+
+from java.nio.file import Paths
+from org.apache.lucene.analysis.standard import StandardAnalyzer
+from org.apache.lucene.index import DirectoryReader
+from org.apache.lucene.queryparser.classic import QueryParser
+from org.apache.lucene.search import IndexSearcher
+from org.apache.lucene.store import SimpleFSDirectory
+
 def luceneRetriver(queryString):
 	lucene.initVM()
 	#指明索引所处位置
-	indexDir = "C:\index"
-	dir = SimpleFSDirectory(File(indexDir))
-	analyzer = StandardAnalyzer(Version.LUCENE_30)
-	searcher = IndexSearcher(dir)
-	query = QueryParser(Version.LUCENE_30, "text", analyzer).parse(queryString)
+	indexDir = "/Users/tzh/PycharmProjects/wse2017/pylucene_test/index"
+	dir = SimpleFSDirectory(Paths.get(indexDir))
+	analyzer = StandardAnalyzer()
+	# searcher = IndexSearcher(dir)
+	searcher = IndexSearcher(DirectoryReader.open(dir))
+	query = QueryParser("text", analyzer).parse(queryString)
 	MAX = 1000
 	#最多记录数
 	hits = searcher.search(query, MAX)
@@ -42,4 +66,4 @@ def luceneRetriver(queryString):
 		print doc.get("path").encode("utf-8")
 
 if __name__ == "__main__":
-    luceneRetriver("Epilogue Nineteen Years Later") 
+    luceneRetriver("latex3")

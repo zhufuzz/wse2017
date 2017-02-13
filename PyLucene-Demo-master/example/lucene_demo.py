@@ -39,15 +39,17 @@ from org.apache.lucene.index import IndexWriter, IndexWriterConfig
 
 # Retriever imports:
 from org.apache.lucene.search import IndexSearcher
-from org.apache.lucene.index import DirectoryReader
+from org.apache.lucene.index import DirectoryReader, FieldInfo, IndexWriter, IndexWriterConfig, IndexOptions
 from org.apache.lucene.queryparser.classic import QueryParser
 
 # ---------------------------- global constants ----------------------------- #
 
 # BASE_DIR = path.dirname(path.abspath(sys.argv[0]))
-BASE_DIR = path.dirname(path.abspath("PyLucene-Demo-master/example"))
+BASE_DIR = path.dirname(path.abspath("/Users/tzh/PycharmProjects/wse2017/PyLucene-Demo-master/example/lucene_demo.py"))
 INPUT_DIR = BASE_DIR + "/input/"
 INDEX_DIR = BASE_DIR + "/lucene_index/"
+
+
 
 NoT = 100000 # Number of Tokens
 
@@ -91,9 +93,9 @@ lucene.initVM()
 directory = RAMDirectory() # ... we'll use a RAMDirectory!
 
 # Get and configure an IndexWriter
-analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
-analyzer = LimitTokenCountAnalyzer(analyzer, NoT)
-config = IndexWriterConfig(Version.LUCENE_CURRENT, analyzer)
+analyzer = StandardAnalyzer()
+analyzer = LimitTokenCountAnalyzer(analyzer, 1048576)
+config = IndexWriterConfig(analyzer)
 writer = IndexWriter(directory, config)
 
 print "Number of indexed documents: %d\n" % writer.numDocs()
@@ -130,7 +132,7 @@ def search_loop(searcher, analyzer):
 
         print
         print "Searching for:", command
-        query = QueryParser(Version.LUCENE_CURRENT, "text", analyzer).parse(command)
+        query = QueryParser("text", analyzer).parse(command)
         start = datetime.now()
         scoreDocs = searcher.search(query, 50).scoreDocs
         duration = datetime.now() - start
@@ -147,7 +149,7 @@ def search_loop(searcher, analyzer):
 searcher = IndexSearcher(DirectoryReader.open(directory))
 
 # Create a new retrieving analyzer
-analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
+analyzer = StandardAnalyzer()
 
 # ... and start searching!
 search_loop(searcher, analyzer)

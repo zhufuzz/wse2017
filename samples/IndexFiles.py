@@ -98,6 +98,15 @@ if __name__ == '__main__':
     start = datetime.now()
     try:
         base_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
+        
+        print sys.argv[0]
+        print os.path.abspath(sys.argv[0])
+        print os.path.dirname(os.path.abspath(sys.argv[0]))
+        print "==========================="
+        print INDEX_DIR
+        print os.path.join(base_dir, INDEX_DIR)
+        print sys.argv[1]
+        print "==========================="
         IndexFiles(sys.argv[1], os.path.join(base_dir, INDEX_DIR),
                    StandardAnalyzer())
         end = datetime.now()
