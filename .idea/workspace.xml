@@ -7,6 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.fdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.fdx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.fnm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.frq" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.nrm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.prx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.tii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/_0.tis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/index/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/sample_input_file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/lucene_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/luceneInx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/build_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test-master/sub_train.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple-search-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple-search-master/indexer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple-search-master/searcher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wikipedia-indexing-master/wikipedia_topic_modeling.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -272,19 +298,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/python_restful_API" />
-      <recent name="$PROJECT_DIR$/Jike_Crawler_kingname" />
-      <recent name="$PROJECT_DIR$/JikePathon" />
-      <recent name="$PROJECT_DIR$/jike/10-algo" />
-      <recent name="$PROJECT_DIR$/jike/09-Modules" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/jike/10-algo/6" />
       <recent name="$PROJECT_DIR$/jike/10-algo/45mergesort" />
       <recent name="$PROJECT_DIR$/jike/10-algo/3selectionsort" />
       <recent name="$PROJECT_DIR$/jike/10-algo/2" />
       <recent name="$PROJECT_DIR$/jike/09-Modules/4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/python_restful_API" />
+      <recent name="$PROJECT_DIR$/Jike_Crawler_kingname" />
+      <recent name="$PROJECT_DIR$/JikePathon" />
+      <recent name="$PROJECT_DIR$/jike/10-algo" />
     </key>
   </component>
   <component name="RunManager" selected="Python.jikexueyuan">
@@ -746,7 +772,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486919364313</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="pp">
+      <created>1486959457060</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1486959457060</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
