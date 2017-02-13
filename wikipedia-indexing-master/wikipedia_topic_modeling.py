@@ -14,6 +14,7 @@ import lda
 from collections import Counter
 import numpy as np
 from collections import OrderedDict
+
 from org.apache.lucene.analysis import tokenattributes
 from org.apache.lucene.analysis.en import EnglishAnalyzer
 from java.io import StringReader

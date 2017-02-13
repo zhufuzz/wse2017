@@ -44,7 +44,8 @@ from org.apache.lucene.queryparser.classic import QueryParser
 
 # ---------------------------- global constants ----------------------------- #
 
-BASE_DIR = path.dirname(path.abspath(sys.argv[0]))
+# BASE_DIR = path.dirname(path.abspath(sys.argv[0]))
+BASE_DIR = path.dirname(path.abspath("PyLucene-Demo-master/example"))
 INPUT_DIR = BASE_DIR + "/input/"
 INDEX_DIR = BASE_DIR + "/lucene_index/"
 
