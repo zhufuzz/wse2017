@@ -7,7 +7,8 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 #hea是我们自己构造的一个字典，里面保存了user-agent
-hea = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36'}
+hea = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 '
+                    '(KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36'}
 # html = requests.get('http://jp.tingroom.com/yuedu/yd300p/')
 html = requests.get('http://jp.tingroom.com/yuedu/yd300p/',headers = hea)
 

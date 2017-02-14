@@ -7,69 +7,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/apache1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/apache1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/apache2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/cpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/epl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/freebsd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/gpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/gpl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/gpl3.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/lgpl2.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/lgpl3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/lpgl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/mit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/mozilla1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/mozilla_eula_firefox3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/mozilla_eula_thunderbird2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/apache1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/apache1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/apache2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/cpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/epl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/freebsd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/gpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/gpl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/gpl3.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/lgpl2.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/lgpl3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/lpgl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/mit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/mozilla1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/mozilla_eula_firefox3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_demo-master/input/mozilla_eula_thunderbird2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/apache1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/apache1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/apache2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/cpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/epl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/freebsd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/gpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/gpl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/gpl3.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/lgpl2.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/lgpl3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/lpgl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/mit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/mozilla1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/mozilla_eula_firefox3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pylucene_test/input/mozilla_eula_thunderbird2.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/_1.cfe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/_1.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/_1.si" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/segments_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/write.lock" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PyLucene-Demo-master/example/input/sample_input_file.txt" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/input_1/sample_input_file.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/TestStringMethods.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WSE_Crawler/simpleCrawler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WSE_Crawler/testURLNorm.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/pic/9.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PyLucene-Demo-master/example/lucene_demo.py" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/lucene_demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PyLucene-Demo-master/example/pathTest.py" afterPath="$PROJECT_DIR$/PyLucene-Demo-master/example/pathTest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pylucene_demo-master/luceneInx.py" afterPath="$PROJECT_DIR$/pylucene_demo-master/luceneInx.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py" afterPath="$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pylucene_test/build_index.py" afterPath="$PROJECT_DIR$/pylucene_test/build_index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/IndexFiles.py" afterPath="$PROJECT_DIR$/samples/IndexFiles.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,97 +72,107 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/wse2017$2sanyinghao.coverage" NAME="2sanyinghao Coverage Results" MODIFIED="1486307535138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$app.coverage" NAME="app Coverage Results" MODIFIED="1486617918914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_restful_API/python_restful_API_1" />
-    <SUITE FILE_PATH="coverage/wse2017$3youxianjixinfa.coverage" NAME="3youxianjixinfa Coverage Results" MODIFIED="1485629059676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/5" />
-    <SUITE FILE_PATH="coverage/wse2017$compareListTuple.coverage" NAME="compareListTuple Coverage Results" MODIFIED="1486309802276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$5qjblyjbbl.coverage" NAME="5qjblyjbbl Coverage Results" MODIFIED="1485641664629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/3" />
-    <SUITE FILE_PATH="coverage/wse2017$build_index.coverage" NAME="build_index Coverage Results" MODIFIED="1487006607754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_test" />
     <SUITE FILE_PATH="coverage/wse2017$lname.coverage" NAME="lname Coverage Results" MODIFIED="1485652546134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/09-Modules" />
     <SUITE FILE_PATH="coverage/wse2017$2yuanzhu1.coverage" NAME="2yuanzhu1 Coverage Results" MODIFIED="1486309660910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$13hsjsyz.coverage" NAME="13hsjsyz Coverage Results" MODIFIED="1485663974958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
     <SUITE FILE_PATH="coverage/wse2017$13_lambda.coverage" NAME="13-lambda Coverage Results" MODIFIED="1485665629435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
     <SUITE FILE_PATH="coverage/wse2017$13_gui.coverage" NAME="13-gui Coverage Results" MODIFIED="1485666040642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
     <SUITE FILE_PATH="coverage/wse2017$2pickle.coverage" NAME="2pickle Coverage Results" MODIFIED="1486309951309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/5object" />
-    <SUITE FILE_PATH="coverage/wse2017$m10lhdx.coverage" NAME="m10lhdx Coverage Results" MODIFIED="1485657257402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-oop" />
-    <SUITE FILE_PATH="coverage/wse2017$2jihe.coverage" NAME="2jihe Coverage Results" MODIFIED="1486308923459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$2biaoshifumingmyuanze.coverage" NAME="2biaoshifumingmyuanze Coverage Results" MODIFIED="1486309876702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/4biaoshifu" />
-    <SUITE FILE_PATH="coverage/wse2017$3shenmeshibiaodashi.coverage" NAME="3shenmeshibiaodashi Coverage Results" MODIFIED="1486310412899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/6" />
     <SUITE FILE_PATH="coverage/wse2017$5hsgn.coverage" NAME="5hsgn Coverage Results" MODIFIED="1485635016798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/1Fucntion" />
-    <SUITE FILE_PATH="coverage/wse2017$needheader.coverage" NAME="needheader Coverage Results" MODIFIED="1486793163665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
-    <SUITE FILE_PATH="coverage/wse2017$8tree.coverage" NAME="8tree Coverage Results" MODIFIED="1485649484672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/1" />
+    <SUITE FILE_PATH="coverage/wse2017$TestStringMethods.coverage" NAME="TestStringMethods Coverage Results" MODIFIED="1487043707664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$build_index__1_.coverage" NAME="build_index (1) Coverage Results" MODIFIED="1487006656837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_test-master" />
-    <SUITE FILE_PATH="coverage/wse2017$10kp.coverage" NAME="10kp Coverage Results" MODIFIED="1485653958664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-algo/2quicksort" />
     <SUITE FILE_PATH="coverage/wse2017$5xcysc.coverage" NAME="5xcysc Coverage Results" MODIFIED="1485639947755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/2" />
-    <SUITE FILE_PATH="coverage/wse2017$13os.coverage" NAME="13os Coverage Results" MODIFIED="1485662236325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
-    <SUITE FILE_PATH="coverage/wse2017$13tsff.coverage" NAME="13tsff Coverage Results" MODIFIED="1485663269672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
     <SUITE FILE_PATH="coverage/wse2017$2changliang.coverage" NAME="2changliang Coverage Results" MODIFIED="1486307377363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
-    <SUITE FILE_PATH="coverage/wse2017$10xzpx.coverage" NAME="10xzpx Coverage Results" MODIFIED="1485654049664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-algo/3selectionsort" />
     <SUITE FILE_PATH="coverage/wse2017$8bitmap.coverage" NAME="8bitmap Coverage Results" MODIFIED="1485650423239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/3" />
-    <SUITE FILE_PATH="coverage/wse2017$2ziranzfuchuan.coverage" NAME="2ziranzfuchuan Coverage Results" MODIFIED="1486307618012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
-    <SUITE FILE_PATH="coverage/wse2017$2zhuanyifu.coverage" NAME="2zhuanyifu Coverage Results" MODIFIED="1486307569319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
-    <SUITE FILE_PATH="coverage/wse2017$2luojihangyuwulihang.coverage" NAME="2luojihangyuwulihang Coverage Results" MODIFIED="1486310201298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
-    <SUITE FILE_PATH="coverage/wse2017$picdownloader.coverage" NAME="picdownloader Coverage Results" MODIFIED="1486610272659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$picdownloader.coverage" NAME="picdownloader Coverage Results" MODIFIED="1487045765477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$3yunsuanfu__1_.coverage" NAME="3yunsuanfu (1) Coverage Results" MODIFIED="1485628031399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/1Intro" />
-    <SUITE FILE_PATH="coverage/wse2017$11ycyf.coverage" NAME="11ycyf Coverage Results" MODIFIED="1485660236327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
-    <SUITE FILE_PATH="coverage/wse2017$2fuzhi.coverage" NAME="2fuzhi Coverage Results" MODIFIED="1486307383168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
-    <SUITE FILE_PATH="coverage/wse2017$jikexueyuan.coverage" NAME="jikexueyuan Coverage Results" MODIFIED="1486793175270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
-    <SUITE FILE_PATH="coverage/wse2017$3youxianjizuoyong.coverage" NAME="3youxianjizuoyong Coverage Results" MODIFIED="1485628354663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/4" />
     <SUITE FILE_PATH="coverage/wse2017$16ts.coverage" NAME="16ts Coverage Results" MODIFIED="1486314757230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/16-remote3" />
     <SUITE FILE_PATH="coverage/wse2017$main.coverage" NAME="main Coverage Results" MODIFIED="1486314790362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_2/1/cgi-bin" />
     <SUITE FILE_PATH="coverage/wse2017$m10jc.coverage" NAME="m10jc Coverage Results" MODIFIED="1485658469326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-oop" />
-    <SUITE FILE_PATH="coverage/wse2017$2hanglianjie.coverage" NAME="2hanglianjie Coverage Results" MODIFIED="1486310192175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
     <SUITE FILE_PATH="coverage/wse2017$16yckz.coverage" NAME="16yckz Coverage Results" MODIFIED="1486314772580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/16-remote3" />
-    <SUITE FILE_PATH="coverage/wse2017$wikipedia_topic_modeling.coverage" NAME="wikipedia_topic_modeling Coverage Results" MODIFIED="1486961616850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wikipedia-indexing-master" />
     <SUITE FILE_PATH="coverage/wse2017$lzmk.coverage" NAME="lzmk Coverage Results" MODIFIED="1485653371097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/09-Modules" />
-    <SUITE FILE_PATH="coverage/wse2017$4for.coverage" NAME="4for Coverage Results" MODIFIED="1486311531664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/4for" />
     <SUITE FILE_PATH="coverage/wse2017$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1485613847742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/py/test" />
-    <SUITE FILE_PATH="coverage/wse2017$13sysqita.coverage" NAME="13sysqita Coverage Results" MODIFIED="1485663263508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
     <SUITE FILE_PATH="coverage/wse2017$3youxianjishiyongguilv.coverage" NAME="3youxianjishiyongguilv Coverage Results" MODIFIED="1485628889254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/5" />
-    <SUITE FILE_PATH="coverage/wse2017$8point.coverage" NAME="8point Coverage Results" MODIFIED="1485650102763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/2" />
+    <SUITE FILE_PATH="coverage/wse2017$testURLNorm.coverage" NAME="testURLNorm Coverage Results" MODIFIED="1487047142820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WSE_Crawler" />
     <SUITE FILE_PATH="coverage/wse2017$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1486307390347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
     <SUITE FILE_PATH="coverage/wse2017$2ruheshuojin.coverage" NAME="2ruheshuojin Coverage Results" MODIFIED="1486310222106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
-    <SUITE FILE_PATH="coverage/wse2017$pathTest.coverage" NAME="pathTest Coverage Results" MODIFIED="1487000681794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyLucene-Demo-master/example" />
     <SUITE FILE_PATH="coverage/wse2017$2liebiao.coverage" NAME="2liebiao Coverage Results" MODIFIED="1486308223264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
-    <SUITE FILE_PATH="coverage/wse2017$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1485613194485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike" />
     <SUITE FILE_PATH="coverage/wse2017$2changyongguanjianzi.coverage" NAME="2changyongguanjianzi Coverage Results" MODIFIED="1486309885428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/4biaoshifu" />
     <SUITE FILE_PATH="coverage/wse2017$16setup1.coverage" NAME="16setup1 Coverage Results" MODIFIED="1486314701009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/16-remote3" />
-    <SUITE FILE_PATH="coverage/wse2017$basic_re__1_.coverage" NAME="basic_re (1) Coverage Results" MODIFIED="1486617908975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$4while.coverage" NAME="4while Coverage Results" MODIFIED="1486310712468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/3while" />
-    <SUITE FILE_PATH="coverage/wse2017$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1485648023296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/07-data-structure-acquainted/3" />
-    <SUITE FILE_PATH="coverage/wse2017$10elgb.coverage" NAME="10elgb Coverage Results" MODIFIED="1485654436984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-algo/45mergesort" />
+    <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_split.coverage" NAME="Unittest TestStringMethods.test_split Coverage Results" MODIFIED="1487043720108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$usere.coverage" NAME="usere Coverage Results" MODIFIED="1486610183120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$2bianliangyy.coverage" NAME="2bianliangyy Coverage Results" MODIFIED="1486307306799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
-    <SUITE FILE_PATH="coverage/wse2017$luceneInx.coverage" NAME="luceneInx Coverage Results" MODIFIED="1487005331017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_demo-master" />
     <SUITE FILE_PATH="coverage/wse2017$2zfuchuandechongfu.coverage" NAME="2zfuchuandechongfu Coverage Results" MODIFIED="1486307548246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$2shenmeshishuojin.coverage" NAME="2shenmeshishuojin Coverage Results" MODIFIED="1485611260457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/02_syntax" />
-    <SUITE FILE_PATH="coverage/wse2017$basic_re.coverage" NAME="basic_re Coverage Results" MODIFIED="1486608286889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_1_regx" />
     <SUITE FILE_PATH="coverage/wse2017$4if.coverage" NAME="4if Coverage Results" MODIFIED="1486310494798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/2if" />
     <SUITE FILE_PATH="coverage/wse2017$lrsmk.coverage" NAME="lrsmk Coverage Results" MODIFIED="1485652386127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/09-Modules" />
     <SUITE FILE_PATH="coverage/wse2017$2danyinghao.coverage" NAME="2danyinghao Coverage Results" MODIFIED="1486307542797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
-    <SUITE FILE_PATH="coverage/wse2017$luceneQryMain.coverage" NAME="luceneQryMain Coverage Results" MODIFIED="1487006612491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_demo-master" />
-    <SUITE FILE_PATH="coverage/wse2017$7stack.coverage" NAME="7stack Coverage Results" MODIFIED="1485647256566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/07-data-structure-acquainted/2" />
+    <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_upper__1_.coverage" NAME="Unittest TestStringMethods.test_upper (1) Coverage Results" MODIFIED="1487045192195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$2yuanzhu2.coverage" NAME="2yuanzhu2 Coverage Results" MODIFIED="1486309690580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$2zidian.coverage" NAME="2zidian Coverage Results" MODIFIED="1486309858466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
-    <SUITE FILE_PATH="coverage/wse2017$11finally.coverage" NAME="11finally Coverage Results" MODIFIED="1485660637495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
-    <SUITE FILE_PATH="coverage/wse2017$5wdzfc.coverage" NAME="5wdzfc Coverage Results" MODIFIED="1485642732326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/5" />
-    <SUITE FILE_PATH="coverage/wse2017$2zizifuchuan.coverage" NAME="2zizifuchuan Coverage Results" MODIFIED="1486307632878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
+    <SUITE FILE_PATH="coverage/wse2017$jkxy_class1.coverage" NAME="jkxy_class1 Coverage Results" MODIFIED="1487043040178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$3youxianjishili.coverage" NAME="3youxianjishili Coverage Results" MODIFIED="1486310800087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/4" />
-    <SUITE FILE_PATH="coverage/wse2017$4kongzhiliu.coverage" NAME="4kongzhiliu Coverage Results" MODIFIED="1486310435528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/1intro" />
     <SUITE FILE_PATH="coverage/wse2017$15dzyj.coverage" NAME="15dzyj Coverage Results" MODIFIED="1485613180357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/15-remote2" />
     <SUITE FILE_PATH="coverage/wse2017$4break.coverage" NAME="4break Coverage Results" MODIFIED="1486311591501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/5break" />
     <SUITE FILE_PATH="coverage/wse2017$lname_.coverage" NAME="lname_ Coverage Results" MODIFIED="1486314845100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules/4" />
     <SUITE FILE_PATH="coverage/wse2017$lnameok.coverage" NAME="lnameok Coverage Results" MODIFIED="1485652770443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/09-Modules" />
+    <SUITE FILE_PATH="coverage/wse2017$simpleCrawler.coverage" NAME="simpleCrawler Coverage Results" MODIFIED="1487049189005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WSE_Crawler" />
+    <SUITE FILE_PATH="coverage/wse2017$13_assert.coverage" NAME="13-assert Coverage Results" MODIFIED="1485665683764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
+    <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_upper.coverage" NAME="Unittest TestStringMethods.test_upper Coverage Results" MODIFIED="1487043624865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$2liebiao2.coverage" NAME="2liebiao2 Coverage Results" MODIFIED="1486309642411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
+    <SUITE FILE_PATH="coverage/wse2017$2fenhaodeshiyong.coverage" NAME="2fenhaodeshiyong Coverage Results" MODIFIED="1486310179048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
+    <SUITE FILE_PATH="coverage/wse2017$5hssyyfhz.coverage" NAME="5hssyyfhz Coverage Results" MODIFIED="1485641870366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/4" />
+    <SUITE FILE_PATH="coverage/wse2017$3yunsuanfu.coverage" NAME="3yunsuanfu Coverage Results" MODIFIED="1486310273543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/123" />
+    <SUITE FILE_PATH="coverage/wse2017$Unittests_in_basic_re.coverage" NAME="Unittests in basic_re Coverage Results" MODIFIED="1487043584631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$3youxianjixinfa.coverage" NAME="3youxianjixinfa Coverage Results" MODIFIED="1485629059676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/5" />
+    <SUITE FILE_PATH="coverage/wse2017$compareListTuple.coverage" NAME="compareListTuple Coverage Results" MODIFIED="1486309802276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
+    <SUITE FILE_PATH="coverage/wse2017$build_index.coverage" NAME="build_index Coverage Results" MODIFIED="1487006607754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_test" />
+    <SUITE FILE_PATH="coverage/wse2017$m10lhdx.coverage" NAME="m10lhdx Coverage Results" MODIFIED="1485657257402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-oop" />
+    <SUITE FILE_PATH="coverage/wse2017$2jihe.coverage" NAME="2jihe Coverage Results" MODIFIED="1486308923459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
+    <SUITE FILE_PATH="coverage/wse2017$Unittests_in_TestStringMethods.coverage" NAME="Unittests in TestStringMethods Coverage Results" MODIFIED="1487045168519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$3shenmeshibiaodashi.coverage" NAME="3shenmeshibiaodashi Coverage Results" MODIFIED="1486310412899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/6" />
+    <SUITE FILE_PATH="coverage/wse2017$needheader.coverage" NAME="needheader Coverage Results" MODIFIED="1487049277849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
+    <SUITE FILE_PATH="coverage/wse2017$8tree.coverage" NAME="8tree Coverage Results" MODIFIED="1485649484672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/1" />
+    <SUITE FILE_PATH="coverage/wse2017$10kp.coverage" NAME="10kp Coverage Results" MODIFIED="1485653958664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-algo/2quicksort" />
+    <SUITE FILE_PATH="coverage/wse2017$13os.coverage" NAME="13os Coverage Results" MODIFIED="1485662236325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
+    <SUITE FILE_PATH="coverage/wse2017$13tsff.coverage" NAME="13tsff Coverage Results" MODIFIED="1485663269672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
+    <SUITE FILE_PATH="coverage/wse2017$10xzpx.coverage" NAME="10xzpx Coverage Results" MODIFIED="1485654049664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-algo/3selectionsort" />
+    <SUITE FILE_PATH="coverage/wse2017$2ziranzfuchuan.coverage" NAME="2ziranzfuchuan Coverage Results" MODIFIED="1486307618012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
+    <SUITE FILE_PATH="coverage/wse2017$2zhuanyifu.coverage" NAME="2zhuanyifu Coverage Results" MODIFIED="1486307569319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
+    <SUITE FILE_PATH="coverage/wse2017$2luojihangyuwulihang.coverage" NAME="2luojihangyuwulihang Coverage Results" MODIFIED="1486310201298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
+    <SUITE FILE_PATH="coverage/wse2017$11ycyf.coverage" NAME="11ycyf Coverage Results" MODIFIED="1485660236327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
+    <SUITE FILE_PATH="coverage/wse2017$2fuzhi.coverage" NAME="2fuzhi Coverage Results" MODIFIED="1486307383168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
+    <SUITE FILE_PATH="coverage/wse2017$jikexueyuan.coverage" NAME="jikexueyuan Coverage Results" MODIFIED="1487049290028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
+    <SUITE FILE_PATH="coverage/wse2017$3youxianjizuoyong.coverage" NAME="3youxianjizuoyong Coverage Results" MODIFIED="1485628354663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/4" />
+    <SUITE FILE_PATH="coverage/wse2017$2hanglianjie.coverage" NAME="2hanglianjie Coverage Results" MODIFIED="1486310192175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
+    <SUITE FILE_PATH="coverage/wse2017$wikipedia_topic_modeling.coverage" NAME="wikipedia_topic_modeling Coverage Results" MODIFIED="1486961616850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wikipedia-indexing-master" />
+    <SUITE FILE_PATH="coverage/wse2017$4for.coverage" NAME="4for Coverage Results" MODIFIED="1486311531664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/4for" />
+    <SUITE FILE_PATH="coverage/wse2017$13sysqita.coverage" NAME="13sysqita Coverage Results" MODIFIED="1485663263508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
+    <SUITE FILE_PATH="coverage/wse2017$8point.coverage" NAME="8point Coverage Results" MODIFIED="1485650102763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/2" />
+    <SUITE FILE_PATH="coverage/wse2017$pathTest.coverage" NAME="pathTest Coverage Results" MODIFIED="1487000681794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyLucene-Demo-master/example" />
+    <SUITE FILE_PATH="coverage/wse2017$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1485613194485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike" />
+    <SUITE FILE_PATH="coverage/wse2017$basic_re__1_.coverage" NAME="basic_re (1) Coverage Results" MODIFIED="1486617908975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1485648023296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/07-data-structure-acquainted/3" />
+    <SUITE FILE_PATH="coverage/wse2017$10elgb.coverage" NAME="10elgb Coverage Results" MODIFIED="1485654436984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-algo/45mergesort" />
+    <SUITE FILE_PATH="coverage/wse2017$luceneInx.coverage" NAME="luceneInx Coverage Results" MODIFIED="1487005331017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_demo-master" />
+    <SUITE FILE_PATH="coverage/wse2017$basic_re.coverage" NAME="basic_re Coverage Results" MODIFIED="1487075993146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$luceneQryMain.coverage" NAME="luceneQryMain Coverage Results" MODIFIED="1487006612491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_demo-master" />
+    <SUITE FILE_PATH="coverage/wse2017$7stack.coverage" NAME="7stack Coverage Results" MODIFIED="1485647256566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/07-data-structure-acquainted/2" />
+    <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_hello.coverage" NAME="Unittest TestStringMethods.test_hello Coverage Results" MODIFIED="1487045012414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$11finally.coverage" NAME="11finally Coverage Results" MODIFIED="1485660637495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
+    <SUITE FILE_PATH="coverage/wse2017$5wdzfc.coverage" NAME="5wdzfc Coverage Results" MODIFIED="1485642732326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/5" />
+    <SUITE FILE_PATH="coverage/wse2017$2zizifuchuan.coverage" NAME="2zizifuchuan Coverage Results" MODIFIED="1486307632878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
+    <SUITE FILE_PATH="coverage/wse2017$4kongzhiliu.coverage" NAME="4kongzhiliu Coverage Results" MODIFIED="1486310435528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/1intro" />
     <SUITE FILE_PATH="coverage/wse2017$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1486314817482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_2/2/cgi-bin" />
     <SUITE FILE_PATH="coverage/wse2017$11wjcz.coverage" NAME="11wjcz Coverage Results" MODIFIED="1485661236452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
     <SUITE FILE_PATH="coverage/wse2017$2shuangyhao.coverage" NAME="2shuangyhao Coverage Results" MODIFIED="1486307526918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$3shenmeshibiaoda1.coverage" NAME="3shenmeshibiaoda1 Coverage Results" MODIFIED="1485608614446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_weiwei_3-operators-and-expressions" />
     <SUITE FILE_PATH="coverage/wse2017$1.coverage" NAME="1 Coverage Results" MODIFIED="1485614471409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/02_syntax" />
-    <SUITE FILE_PATH="coverage/wse2017$13_assert.coverage" NAME="13-assert Coverage Results" MODIFIED="1485665683764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
-    <SUITE FILE_PATH="coverage/wse2017$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1486793146549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
+    <SUITE FILE_PATH="coverage/wse2017$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1487049239025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
     <SUITE FILE_PATH="coverage/wse2017$IndexFiles_in.coverage" NAME="IndexFiles_in Coverage Results" MODIFIED="1487004496488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples" />
-    <SUITE FILE_PATH="coverage/wse2017$2liebiao2.coverage" NAME="2liebiao2 Coverage Results" MODIFIED="1486309642411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
-    <SUITE FILE_PATH="coverage/wse2017$2fenhaodeshiyong.coverage" NAME="2fenhaodeshiyong Coverage Results" MODIFIED="1486310179048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
-    <SUITE FILE_PATH="coverage/wse2017$5hssyyfhz.coverage" NAME="5hssyyfhz Coverage Results" MODIFIED="1485641870366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/4" />
-    <SUITE FILE_PATH="coverage/wse2017$3yunsuanfu.coverage" NAME="3yunsuanfu Coverage Results" MODIFIED="1486310273543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/123" />
     <SUITE FILE_PATH="coverage/wse2017$lucene_demo.coverage" NAME="lucene_demo Coverage Results" MODIFIED="1487004781442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyLucene-Demo-master/example" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -179,82 +180,58 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.54374593">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="build_index.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pylucene_test/build_index.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-                  <folding>
-                    <element signature="e#16#29#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="build_index.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/pylucene_test-master/build_index.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="730">
-                  <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="luceneQryMain.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sub_train.csv" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pylucene_test/sub_train.csv">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="mansearch.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/samples/mansearch.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="458">
-                  <caret line="68" column="51" lean-forward="false" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="51" />
-                  <folding>
-                    <element signature="e#991#1013#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="IndexFiles.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/samples/IndexFiles.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="68" selection-end-column="69" />
-                  <folding>
-                    <element signature="e#55#94#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="basic_re.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="picdownloader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/picdownloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jkxy_class1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/jkxy_class1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestStringMethods.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/TestStringMethods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -276,6 +253,10 @@
       <find>QueryParser</find>
       <find>INDEX_DIR</find>
       <find>IndexWriter</find>
+      <find>spider</find>
+      <find>parse</find>
+      <find>urljoin</find>
+      <find>print(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -284,11 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jike/07-data-structure-acquainted/2/try.py" />
-        <option value="$PROJECT_DIR$/jike/08-data-structure/2/8point.py" />
-        <option value="$PROJECT_DIR$/jike/08-data-structure/3/8bitmap.py" />
-        <option value="$PROJECT_DIR$/jike/09-Modules/lname.py" />
-        <option value="$PROJECT_DIR$/jike/09-Modules/lnameok.py" />
         <option value="$PROJECT_DIR$/jike/09-Modules/lzmk.py" />
         <option value="$PROJECT_DIR$/jike/16-remote3/16hello.py" />
         <option value="$PROJECT_DIR$/jike/16-remote3/16yckz.py" />
@@ -335,6 +311,11 @@
         <option value="$PROJECT_DIR$/pylucene_demo-master/luceneInx.py" />
         <option value="$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py" />
         <option value="$PROJECT_DIR$/pylucene_test/build_index.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/TestStringMethods.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py" />
+        <option value="$PROJECT_DIR$/WSE_Crawler/testURLNorm.py" />
+        <option value="$PROJECT_DIR$/WSE_Crawler/simpleCrawler.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py" />
       </list>
     </option>
   </component>
@@ -404,7 +385,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="WSE_Crawler" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,7 +399,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
+              <option name="myItemId" value="Jike_Crawler_kingname" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -432,146 +413,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python_restful_API" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
+              <option name="myItemId" value="Jike_Crawler_kingname" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python_restful_API" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_restful_API_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pylucene_test-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pylucene_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pylucene_demo-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pylucene_demo-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyLucene-Demo-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyLucene-Demo-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyLucene-Demo-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input_1" />
+              <option name="myItemId" value="craw_01_regx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -579,7 +432,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="editor.config.accepted" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -606,93 +459,93 @@
       <recent name="$PROJECT_DIR$/jike/10-algo/2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.build_index (1)">
-    <configuration default="false" name="lucene_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.basic_re">
+    <configuration default="false" name="simpleCrawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyLucene-Demo-master/example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WSE_Crawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyLucene-Demo-master/example/lucene_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WSE_Crawler/simpleCrawler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="build_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="tieba" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_test/build_index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/tieba.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="luceneInx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="needheader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_demo-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_demo-master/luceneInx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="luceneQryMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="jikexueyuan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_demo-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/jikexueyuan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="build_index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="basic_re" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_test-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_test-master/build_index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -931,19 +784,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.IndexFiles_in" />
-      <item index="1" class="java.lang.String" itemvalue="Python.lucene_demo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.build_index" />
-      <item index="3" class="java.lang.String" itemvalue="Python.luceneInx" />
-      <item index="4" class="java.lang.String" itemvalue="Python.luceneQryMain" />
-      <item index="5" class="java.lang.String" itemvalue="Python.build_index (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.simpleCrawler" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tieba" />
+      <item index="3" class="java.lang.String" itemvalue="Python.needheader" />
+      <item index="4" class="java.lang.String" itemvalue="Python.jikexueyuan" />
+      <item index="5" class="java.lang.String" itemvalue="Python.basic_re" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.build_index (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.luceneQryMain" />
-        <item index="2" class="java.lang.String" itemvalue="Python.build_index" />
-        <item index="3" class="java.lang.String" itemvalue="Python.luceneInx" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lucene_demo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.basic_re" />
+        <item index="1" class="java.lang.String" itemvalue="Python.jikexueyuan" />
+        <item index="2" class="java.lang.String" itemvalue="Python.needheader" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tieba" />
+        <item index="4" class="java.lang.String" itemvalue="Python.simpleCrawler" />
       </list>
     </recent_temporary>
   </component>
@@ -1105,33 +958,72 @@
       <option name="project" value="LOCAL" />
       <updated>1486970563877</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="pp">
+      <created>1487006683914</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1487006683914</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_TestStringMethods_test_hello - 2017.02.13 at 23h 03m 32s.xml">
+      <configuration name="Unittest TestStringMethods.test_hello" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStringMethods_test_upper_(1) - 2017.02.13 at 23h 02m 18s.xml">
+      <configuration name="Unittest TestStringMethods.test_upper (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStringMethods_test_upper_(1) - 2017.02.13 at 23h 06m 32s.xml">
+      <configuration name="Unittest TestStringMethods.test_upper (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStringMethods - 2017.02.13 at 23h 03m 19s.xml">
+      <configuration name="Unittests in TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStringMethods - 2017.02.13 at 23h 03m 48s.xml">
+      <configuration name="Unittests in TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStringMethods - 2017.02.13 at 23h 03m 51s.xml">
+      <configuration name="Unittests in TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStringMethods - 2017.02.13 at 23h 05m 09s.xml">
+      <configuration name="Unittests in TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStringMethods - 2017.02.13 at 23h 05m 23s.xml">
+      <configuration name="Unittests in TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStringMethods - 2017.02.13 at 23h 05m 55s.xml">
+      <configuration name="Unittests in TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStringMethods - 2017.02.13 at 23h 06m 08s.xml">
+      <configuration name="Unittests in TestStringMethods" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="23" width="1891" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16549486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21450777" sideWeight="0.20118983" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1481882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21450777" sideWeight="0.20118983" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16891192" sideWeight="0.7988102" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27528393" sideWeight="0.7988102" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1164,89 +1056,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/15-remote2/15ycxm1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16setup1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16setup2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16setupok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16ts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16yckz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_2/1/cgi-bin/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_2/1/cgi-bin/jkxy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_2/2/cgi-bin/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/py/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/4/lname_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/lname.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1276,55 +1090,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/source.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/usere.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/jkxy_class1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/picdownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_restful_API/python_restful_API_2/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1343,27 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/tieba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/jikexueyuan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1427,7 +1171,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1435,15 +1178,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/348993582/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="5058" column="8" lean-forward="false" selection-start-line="5058" selection-start-column="8" selection-end-line="5058" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1451,9 +1185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-          <folding>
-            <element signature="e#926#944#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1461,9 +1192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="46" column="59" lean-forward="false" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="59" />
-          <folding>
-            <element signature="e#55#77#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1471,9 +1199,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="92" column="67" lean-forward="true" selection-start-line="92" selection-start-column="67" selection-end-line="92" selection-end-column="67" />
-          <folding>
-            <element signature="e#722#740#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1481,7 +1206,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1490,7 +1214,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1498,21 +1221,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/IndexFiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="1122">
           <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="68" selection-end-column="69" />
-          <folding>
-            <element signature="e#55#94#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/mansearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
+        <state relative-caret-position="500">
           <caret line="68" column="51" lean-forward="false" selection-start-line="68" selection-start-column="46" selection-end-line="68" selection-end-column="51" />
-          <folding>
-            <element signature="e#991#1013#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1520,32 +1237,196 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="902">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pylucene_test/build_index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <element signature="e#16#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pylucene_test-master/build_index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="730">
-          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/source.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12342">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/348993582/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9108">
+          <caret line="414" column="4" lean-forward="false" selection-start-line="414" selection-start-column="4" selection-end-line="414" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="104" column="11" lean-forward="false" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/usere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/url_normalize/url_normalize.py" />
+    <entry file="file:///Library/Python/2.7/site-packages/url_normalize/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/WSE_Crawler/testURLNorm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Python_1/10-oop/m10ff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="12" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Python_1/11-exception_file/11finally.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Python_1/11-exception_file/11wjcz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urlparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5500">
+          <caret line="250" column="43" lean-forward="false" selection-start-line="250" selection-start-column="39" selection-end-line="250" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/tieba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#34#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/jikexueyuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="e#19#34#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WSE_Crawler/simpleCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="27" column="69" lean-forward="false" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/picdownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/jkxy_class1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/TestStringMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <folding />
         </state>
       </provider>
