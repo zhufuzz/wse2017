@@ -1,6 +1,7 @@
 #-*-coding:utf8-*-
 import re
 import requests
+import html
 
 f = open('eachClass','r')
 html = f.read()
