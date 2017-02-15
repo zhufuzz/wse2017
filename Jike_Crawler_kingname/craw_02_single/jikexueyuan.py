@@ -12,7 +12,7 @@ class spider(object):
 #getsource用来获取网页源代码
     def getsource(self,url):
         html = requests.get(url)
-        print html.text
+        # print html.text
         return html.text
 
 #changepage用来生产不同页数的链接
@@ -23,10 +23,13 @@ class spider(object):
             link = re.sub('pageNum=\d+','pageNum=%s'%i,url,re.S)
             page_group.append(link)
         return page_group
+	
 #geteveryclass用来抓取每个课程块的信息
     def geteveryclass(self,source):
-        everyclass = re.findall('(<li deg="".*?</li>)',source,re.S)
+        everyclass = re.findall('<li id=".*?" test="0" deg="0" >.*?</li>',source,re.S)
+        print everyclass
         return everyclass
+	
 #getinfo用来从每个课程块中提取出我们需要的信息
     def getinfo(self,eachclass):
         info = {}
@@ -37,6 +40,7 @@ class spider(object):
         info['classlevel'] = timeandlevel[1]
         info['learnnum'] = re.search('"learn-number">(.*?)</em>',eachclass,re.S).group(1)
         return info
+	
 #saveinfo用来保存结果到info.txt文件中
     def saveinfo(self,classinfo):
         f = open('info.txt','a')
@@ -47,22 +51,28 @@ class spider(object):
             f.writelines('classlevel:' + each['classlevel'] + '\n')
             f.writelines('learnnum:' + each['learnnum'] +'\n\n')
         f.close()
+		
+    def savehtml(self,html):
+        f = open('html.html','a')
+        f.write(html)
+        f.close()
+
 
 if __name__ == '__main__':
 
     classinfo = []
     url = 'http://www.jikexueyuan.com/course/?pageNum=1'
     jikespider = spider()
-    all_links = jikespider.changepage(url,20)
+    all_links = jikespider.changepage(url,1)
     for link in all_links:
         print u'正在处理页面：' + link
         html = jikespider.getsource(link)
-		
+        jikespider.savehtml(html)
         everyclass = jikespider.geteveryclass(html)
 		
         for each in everyclass:
             info = jikespider.getinfo(each)
-            print info
+            # print info
             classinfo.append(info)
     jikespider.saveinfo(classinfo)
 
