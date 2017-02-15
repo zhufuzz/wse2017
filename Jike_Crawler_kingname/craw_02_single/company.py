@@ -5,9 +5,9 @@ import re
 url = 'https://www.crowdfunder.com/browse/deals&template=false'
 
 
-# html = requests.get(url).text
-# print html
-
+html = requests.get(url).text
+print html
+print "================================="
 
 #注意这里的page后面跟的数字需要放到引号里面。
 data = {
@@ -15,6 +15,9 @@ data = {
     'page':'2'
 }
 html_post = requests.post(url,data=data)
+print html_post.text
+print "*********************************"
+
 title = re.findall('"card-title">(.*?)</div>',html_post.text,re.S)
 for each in title:
     print each

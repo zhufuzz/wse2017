@@ -13,11 +13,14 @@ hea = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36
 html = requests.get('http://jp.tingroom.com/yuedu/yd300p/',headers = hea)
 
 html.encoding = 'utf-8' #这一行是将编码转为utf-8否则中文会显示乱码。
-# print html.text
-# title = re.findall('color:#666666;">(.*?)</span>',html.text,re.S)
-# for each in title:
-#     print each
+print html.text
+
+print "*********************************************************"
+title = re.findall('color:#666666;">(.*?)</span>',html.text,re.S)
+for each in title:
+    print each
 #
+print "=========================================="
 chinese = re.findall('color: #039;">(.*?)</a>',html.text,re.S)
 for each in chinese:
     print each

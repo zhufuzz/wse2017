@@ -12,6 +12,7 @@ class spider(object):
 #getsource用来获取网页源代码
     def getsource(self,url):
         html = requests.get(url)
+        print html.text
         return html.text
 
 #changepage用来生产不同页数的链接
@@ -56,9 +57,12 @@ if __name__ == '__main__':
     for link in all_links:
         print u'正在处理页面：' + link
         html = jikespider.getsource(link)
+		
         everyclass = jikespider.geteveryclass(html)
+		
         for each in everyclass:
             info = jikespider.getinfo(each)
+            print info
             classinfo.append(info)
     jikespider.saveinfo(classinfo)
 
