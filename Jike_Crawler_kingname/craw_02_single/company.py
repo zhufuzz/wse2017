@@ -6,16 +6,21 @@ url = 'https://www.crowdfunder.com/browse/deals&template=false'
 
 
 html = requests.get(url).text
-print html
+# print html
+title = re.findall('"card-title">(.*?)</div>',html,re.S)
+for each in title:
+    print each
 print "================================="
 
+
+html = requests.get(url).text
 #注意这里的page后面跟的数字需要放到引号里面。
 data = {
     'entities_only':'true',
-    'page':'2'
+    'page':'3'
 }
 html_post = requests.post(url,data=data)
-print html_post.text
+# print html_post.text
 print "*********************************"
 
 title = re.findall('"card-title">(.*?)</div>',html_post.text,re.S)

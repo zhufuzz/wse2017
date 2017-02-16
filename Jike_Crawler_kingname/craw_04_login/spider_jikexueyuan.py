@@ -4,10 +4,10 @@ import requests
 from lxml import etree
 
 cook = {"Cookie": "此处请填写你获取到的Cookie"}
-url = 'http://weibo.cn/u/xxxxxxxx' #此处请修改为微博网址
-# html = requests.get(url).content
-# print html
-html = requests.get(url, cookies = cook).content
+url = 'http://weibo.cn/u/5634806670' #此处请修改为微博网址
+html = requests.get(url).content
+print html
+# html = requests.get(url, cookies = cook).content
 # html = requests.get(url, cookies = cook).text
 
 # html = bytes(bytearray(html, encoding='utf-8'))

@@ -33,7 +33,7 @@ html = '''
 selector = etree.HTML(html)
 
 #提取文本
-content = selector.xpath('//ul[@id="useful"]/li/text()')
+content = selector.xpath('//body/div/ul[@id="useful"]/li/text()')
 for each in content:
     print each
 

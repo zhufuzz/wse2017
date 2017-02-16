@@ -71,6 +71,6 @@ else:
 
 #循环结构
 a=7
-while a:q
-    print "helloo"
-    a=a-1
+#while a:q
+#    print "helloo"
+ #   a=a-1

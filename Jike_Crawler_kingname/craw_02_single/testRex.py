@@ -17,7 +17,7 @@ for each in links:
      print each
 
 print '抓取部分文字,先大再小'
-text_fied = re.findall('<ul>(.*?)</ul>',html,re.S)[0]
-the_text = re.findall('">(.*?)</a>',text_fied,re.S)
+text_fied = re.findall('test="0" deg="0" >(.*?)</li>',html,re.S)[0]
+the_text = re.findall('display: none;">(.*?)</p>',text_fied,re.S)
 print text_fied
-print the_text
+print the_text[0]
