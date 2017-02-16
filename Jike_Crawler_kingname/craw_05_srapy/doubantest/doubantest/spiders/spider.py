@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from scrapy.contrib.spiders import CrawlSpider
+# from scrapy.contrib.spiders import CrawlSpider
+from scrapy.spiders import CrawlSpider
 
 
 class Douban(CrawlSpider):
@@ -8,6 +9,9 @@ class Douban(CrawlSpider):
     ]
     def parse(self,response):
         print response.body
-        print response.url
-        a = response.url
-        b = 1
+        #print response.url
+        #print "ddd"
+        #a = response.url
+        #b = 1
+
+#
