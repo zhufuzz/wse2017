@@ -7,8 +7,180 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_1/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_1/requests_t.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_2/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_2/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/templates/authorize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/01flaskapp/flaskapp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/flaskapp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/templates/one_base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/templates/two_base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/templates/user_id.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/templates/user_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/02template/templates/user_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/03msg_error/flaskapp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/03msg_error/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/03msg_error/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/03msg_error/templates/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_2_intro/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/static/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/static/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/tests/test_todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/js/components/Todo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/js/components/TodoForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/js/components/TodoItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/js/components/TodoTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/static/js/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/static/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/static/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/etc/todo.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/etc/todo_app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/fabfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/tests/test_todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/mywsgi/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_Todo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_1_Intro/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_1_Intro/c04_1/checkValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_1_Intro/c04_1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_1_Intro/c04_2/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_1_Intro/c04_2/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_2_DB/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_2_DB/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_2_DB/user/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_2_DB/user/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_2_DB/user/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/board/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/board/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/board/model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/board/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/board/templates/show.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/user/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/user/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/user/model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM/user/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_4_RP/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_4_RP/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_4_RP/model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_4_RP/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_4_RP/templates/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec2/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec2/model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec2/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec2/templates/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec2/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec3/JsonObject.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec3/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec3/userAPI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec4/migrater.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec4/model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jike_Flask_table/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doubanmovie/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doubantest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/novelspider/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/doubanmovie.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders/doubanspider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/doubantest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/spiders/novspider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/scrapy.cfg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/__init__.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders/__init__.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/spiders/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/__init__.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/items.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/items.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/pipelines.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/pipelines.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/settings.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/settings.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/spiders/spider.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/main.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/main.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/scrapy.cfg" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/scrapy.cfg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/novelspider/novelspider/__init__.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/controlDB.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/controlDB.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/misc.xml" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/novelspider.iml" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/novelspider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/settings.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pcmd.py" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pcmd.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/_config.ini" afterPath="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/_config.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,6 +197,7 @@
     <SUITE FILE_PATH="coverage/wse2017$2yuanzhu1.coverage" NAME="2yuanzhu1 Coverage Results" MODIFIED="1486309660910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$lname.coverage" NAME="lname Coverage Results" MODIFIED="1487229246617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules" />
     <SUITE FILE_PATH="coverage/wse2017$13hsjsyz.coverage" NAME="13hsjsyz Coverage Results" MODIFIED="1485663974958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
+    <SUITE FILE_PATH="coverage/wse2017$webControl.coverage" NAME="webControl Coverage Results" MODIFIED="1487265192274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
     <SUITE FILE_PATH="coverage/wse2017$13_lambda.coverage" NAME="13-lambda Coverage Results" MODIFIED="1485665629435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
     <SUITE FILE_PATH="coverage/wse2017$13_gui.coverage" NAME="13-gui Coverage Results" MODIFIED="1485666040642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
     <SUITE FILE_PATH="coverage/wse2017$2pickle.coverage" NAME="2pickle Coverage Results" MODIFIED="1486309951309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/5object" />
@@ -38,9 +211,10 @@
     <SUITE FILE_PATH="coverage/wse2017$2changliang.coverage" NAME="2changliang Coverage Results" MODIFIED="1486307377363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
     <SUITE FILE_PATH="coverage/wse2017$8bitmap.coverage" NAME="8bitmap Coverage Results" MODIFIED="1485650423239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/3" />
     <SUITE FILE_PATH="coverage/wse2017$picdownloader.coverage" NAME="picdownloader Coverage Results" MODIFIED="1487079586071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1487264976446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
     <SUITE FILE_PATH="coverage/wse2017$3yunsuanfu__1_.coverage" NAME="3yunsuanfu (1) Coverage Results" MODIFIED="1485628031399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/1Intro" />
     <SUITE FILE_PATH="coverage/wse2017$16ts.coverage" NAME="16ts Coverage Results" MODIFIED="1486314757230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/16-remote3" />
-    <SUITE FILE_PATH="coverage/wse2017$main.coverage" NAME="main Coverage Results" MODIFIED="1487236300500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest" />
+    <SUITE FILE_PATH="coverage/wse2017$main.coverage" NAME="main Coverage Results" MODIFIED="1487254825312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest" />
     <SUITE FILE_PATH="coverage/wse2017$m10jc.coverage" NAME="m10jc Coverage Results" MODIFIED="1485658469326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-oop" />
     <SUITE FILE_PATH="coverage/wse2017$16yckz.coverage" NAME="16yckz Coverage Results" MODIFIED="1486314772580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/16-remote3" />
     <SUITE FILE_PATH="coverage/wse2017$lzmk.coverage" NAME="lzmk Coverage Results" MODIFIED="1487229550752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules" />
@@ -49,6 +223,7 @@
     <SUITE FILE_PATH="coverage/wse2017$testURLNorm.coverage" NAME="testURLNorm Coverage Results" MODIFIED="1487195664566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WSE_Crawler" />
     <SUITE FILE_PATH="coverage/wse2017$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1486307390347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
     <SUITE FILE_PATH="coverage/wse2017$2ruheshuojin.coverage" NAME="2ruheshuojin Coverage Results" MODIFIED="1486310222106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
+    <SUITE FILE_PATH="coverage/wse2017$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1487264479960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
     <SUITE FILE_PATH="coverage/wse2017$2liebiao.coverage" NAME="2liebiao Coverage Results" MODIFIED="1486308223264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$2changyongguanjianzi.coverage" NAME="2changyongguanjianzi Coverage Results" MODIFIED="1486309885428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/4biaoshifu" />
     <SUITE FILE_PATH="coverage/wse2017$16setup1.coverage" NAME="16setup1 Coverage Results" MODIFIED="1486314701009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/16-remote3" />
@@ -58,6 +233,7 @@
     <SUITE FILE_PATH="coverage/wse2017$2bianliangyy.coverage" NAME="2bianliangyy Coverage Results" MODIFIED="1486307306799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
     <SUITE FILE_PATH="coverage/wse2017$2zfuchuandechongfu.coverage" NAME="2zfuchuandechongfu Coverage Results" MODIFIED="1486307548246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$2shenmeshishuojin.coverage" NAME="2shenmeshishuojin Coverage Results" MODIFIED="1485611260457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/02_syntax" />
+    <SUITE FILE_PATH="coverage/wse2017$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1487258075708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/novelspider" />
     <SUITE FILE_PATH="coverage/wse2017$4if.coverage" NAME="4if Coverage Results" MODIFIED="1486310494798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/2if" />
     <SUITE FILE_PATH="coverage/wse2017$2danyinghao.coverage" NAME="2danyinghao Coverage Results" MODIFIED="1486307542797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$lrsmk.coverage" NAME="lrsmk Coverage Results" MODIFIED="1487229284954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules" />
@@ -65,13 +241,19 @@
     <SUITE FILE_PATH="coverage/wse2017$2yuanzhu2.coverage" NAME="2yuanzhu2 Coverage Results" MODIFIED="1486309690580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$2zidian.coverage" NAME="2zidian Coverage Results" MODIFIED="1486309858466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype" />
     <SUITE FILE_PATH="coverage/wse2017$jkxy_class1.coverage" NAME="jkxy_class1 Coverage Results" MODIFIED="1487226186278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$wcc.coverage" NAME="wcc Coverage Results" MODIFIED="1487270273254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask" />
+    <SUITE FILE_PATH="coverage/wse2017$excutor.coverage" NAME="excutor Coverage Results" MODIFIED="1487261565802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils" />
+    <SUITE FILE_PATH="coverage/wse2017$pcmd.coverage" NAME="pcmd Coverage Results" MODIFIED="1487260239882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat" />
+    <SUITE FILE_PATH="coverage/wse2017$spider__1_.coverage" NAME="spider (1) Coverage Results" MODIFIED="1487237707357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/spiders" />
     <SUITE FILE_PATH="coverage/wse2017$3youxianjishili.coverage" NAME="3youxianjishili Coverage Results" MODIFIED="1486310800087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/4" />
+    <SUITE FILE_PATH="coverage/wse2017$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1487258420234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanmovie" />
     <SUITE FILE_PATH="coverage/wse2017$15dzyj.coverage" NAME="15dzyj Coverage Results" MODIFIED="1485613180357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/15-remote2" />
     <SUITE FILE_PATH="coverage/wse2017$4break.coverage" NAME="4break Coverage Results" MODIFIED="1486311591501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/5break" />
     <SUITE FILE_PATH="coverage/wse2017$lname_.coverage" NAME="lname_ Coverage Results" MODIFIED="1487229308783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules/4" />
     <SUITE FILE_PATH="coverage/wse2017$lnameok.coverage" NAME="lnameok Coverage Results" MODIFIED="1487229271257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules" />
     <SUITE FILE_PATH="coverage/wse2017$testRex.coverage" NAME="testRex Coverage Results" MODIFIED="1487231344483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
     <SUITE FILE_PATH="coverage/wse2017$simpleCrawler.coverage" NAME="simpleCrawler Coverage Results" MODIFIED="1487195681127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WSE_Crawler" />
+    <SUITE FILE_PATH="coverage/wse2017$controlDB.coverage" NAME="controlDB Coverage Results" MODIFIED="1487252925621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB" />
     <SUITE FILE_PATH="coverage/wse2017$spider.coverage" NAME="spider Coverage Results" MODIFIED="1487236627931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders" />
     <SUITE FILE_PATH="coverage/wse2017$13_assert.coverage" NAME="13-assert Coverage Results" MODIFIED="1485665683764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
     <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_upper.coverage" NAME="Unittest TestStringMethods.test_upper Coverage Results" MODIFIED="1487043624865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
@@ -79,6 +261,8 @@
     <SUITE FILE_PATH="coverage/wse2017$2fenhaodeshiyong.coverage" NAME="2fenhaodeshiyong Coverage Results" MODIFIED="1486310179048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
     <SUITE FILE_PATH="coverage/wse2017$5hssyyfhz.coverage" NAME="5hssyyfhz Coverage Results" MODIFIED="1485641870366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/4" />
     <SUITE FILE_PATH="coverage/wse2017$3yunsuanfu.coverage" NAME="3yunsuanfu Coverage Results" MODIFIED="1486310273543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/123" />
+    <SUITE FILE_PATH="coverage/wse2017$example1__1_.coverage" NAME="example1 (1) Coverage Results" MODIFIED="1487271191227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui" />
+    <SUITE FILE_PATH="coverage/wse2017$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1487255260770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis" />
     <SUITE FILE_PATH="coverage/wse2017$Unittests_in_basic_re.coverage" NAME="Unittests in basic_re Coverage Results" MODIFIED="1487043584631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$tiebaspider.coverage" NAME="tiebaspider Coverage Results" MODIFIED="1487233654927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi" />
     <SUITE FILE_PATH="coverage/wse2017$3youxianjixinfa.coverage" NAME="3youxianjixinfa Coverage Results" MODIFIED="1485629059676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/03-operators-and-expressions/5" />
@@ -99,6 +283,7 @@
     <SUITE FILE_PATH="coverage/wse2017$2ziranzfuchuan.coverage" NAME="2ziranzfuchuan Coverage Results" MODIFIED="1486307618012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$2zhuanyifu.coverage" NAME="2zhuanyifu Coverage Results" MODIFIED="1486307569319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$2luojihangyuwulihang.coverage" NAME="2luojihangyuwulihang Coverage Results" MODIFIED="1486310201298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
+    <SUITE FILE_PATH="coverage/wse2017$mailHelper.coverage" NAME="mailHelper Coverage Results" MODIFIED="1487261105890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils" />
     <SUITE FILE_PATH="coverage/wse2017$11ycyf.coverage" NAME="11ycyf Coverage Results" MODIFIED="1485660236327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
     <SUITE FILE_PATH="coverage/wse2017$2fuzhi.coverage" NAME="2fuzhi Coverage Results" MODIFIED="1486307383168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
     <SUITE FILE_PATH="coverage/wse2017$jikexueyuan.coverage" NAME="jikexueyuan Coverage Results" MODIFIED="1487187337933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
@@ -107,6 +292,7 @@
     <SUITE FILE_PATH="coverage/wse2017$wikipedia_topic_modeling.coverage" NAME="wikipedia_topic_modeling Coverage Results" MODIFIED="1486961616850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wikipedia-indexing-master" />
     <SUITE FILE_PATH="coverage/wse2017$4for.coverage" NAME="4for Coverage Results" MODIFIED="1486311531664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/4for" />
     <SUITE FILE_PATH="coverage/wse2017$13sysqita.coverage" NAME="13sysqita Coverage Results" MODIFIED="1485663263508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
+    <SUITE FILE_PATH="coverage/wse2017$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1487258868692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl" />
     <SUITE FILE_PATH="coverage/wse2017$8point.coverage" NAME="8point Coverage Results" MODIFIED="1485650102763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/2" />
     <SUITE FILE_PATH="coverage/wse2017$pathTest.coverage" NAME="pathTest Coverage Results" MODIFIED="1487195550162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyLucene-Demo-master/example" />
     <SUITE FILE_PATH="coverage/wse2017$testModule.coverage" NAME="testModule Coverage Results" MODIFIED="1487229638616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules" />
@@ -127,14 +313,16 @@
     <SUITE FILE_PATH="coverage/wse2017$5wdzfc.coverage" NAME="5wdzfc Coverage Results" MODIFIED="1485642732326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/05-function/5" />
     <SUITE FILE_PATH="coverage/wse2017$doubanspider.coverage" NAME="doubanspider Coverage Results" MODIFIED="1487236555755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders" />
     <SUITE FILE_PATH="coverage/wse2017$2zizifuchuan.coverage" NAME="2zizifuchuan Coverage Results" MODIFIED="1486307632878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
+    <SUITE FILE_PATH="coverage/wse2017$mcc.coverage" NAME="mcc Coverage Results" MODIFIED="1487261215792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC" />
     <SUITE FILE_PATH="coverage/wse2017$4kongzhiliu.coverage" NAME="4kongzhiliu Coverage Results" MODIFIED="1487231275518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/1intro" />
-    <SUITE FILE_PATH="coverage/wse2017$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1487236076828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie" />
+    <SUITE FILE_PATH="coverage/wse2017$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1487257979153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubantest" />
     <SUITE FILE_PATH="coverage/wse2017$11wjcz.coverage" NAME="11wjcz Coverage Results" MODIFIED="1485661236452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
     <SUITE FILE_PATH="coverage/wse2017$2shuangyhao.coverage" NAME="2shuangyhao Coverage Results" MODIFIED="1486307526918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
     <SUITE FILE_PATH="coverage/wse2017$3shenmeshibiaoda1.coverage" NAME="3shenmeshibiaoda1 Coverage Results" MODIFIED="1485608614446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_weiwei_3-operators-and-expressions" />
     <SUITE FILE_PATH="coverage/wse2017$1.coverage" NAME="1 Coverage Results" MODIFIED="1485614471409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/02_syntax" />
     <SUITE FILE_PATH="coverage/wse2017$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1487230392970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
     <SUITE FILE_PATH="coverage/wse2017$IndexFiles_in.coverage" NAME="IndexFiles_in Coverage Results" MODIFIED="1487004496488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples" />
+    <SUITE FILE_PATH="coverage/wse2017$webControlWithDataBase.coverage" NAME="webControlWithDataBase Coverage Results" MODIFIED="1487265675650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
     <SUITE FILE_PATH="coverage/wse2017$lucene_demo.coverage" NAME="lucene_demo Coverage Results" MODIFIED="1487195554296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyLucene-Demo-master/example" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -142,110 +330,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xxoohelper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/xxoohelper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="26" />
-              <folding>
-                <element signature="e#20#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/scrapy.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crawl.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Python/2.7/site-packages/scrapy/spiders/crawl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/scrapy.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -279,6 +364,11 @@
       <find>basic_re</find>
       <find>group</find>
       <find>爬取标题</find>
+      <find>/usr/bin/python</find>
+      <find>redis</find>
+      <find>C:</find>
+      <find>2.7</find>
+      <find>DataBaseManager</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -290,26 +380,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jike/13-other/13-lambda.py" />
-        <option value="$PROJECT_DIR$/jike/13-other/13-assert.py" />
-        <option value="$PROJECT_DIR$/JikePathon/2/cgi-bin/main.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2zhuanyifu.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/1/2changliang.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2shuangyhao.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2sanyinghao.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2danyinghao.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2ziranzfuchuan.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype/2jihe.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype/2liebiao.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype/2liebiao2.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype/2yuanzhu2.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype/2yuanzhu1.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype/compareListTuple.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/3datatype/2zidian.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent/2fenhaodeshiyong.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent/2ruheshuojin.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/3while/4while.py" />
-        <option value="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/4/3youxianjishili.py" />
         <option value="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/2if/4if.py" />
         <option value="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/4for/4for.py" />
         <option value="$PROJECT_DIR$/ww.py" />
@@ -341,6 +411,26 @@
         <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/xpath_regular.py" />
         <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/spider_jikexueyuan.py" />
         <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/settings.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/settings.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders/doubanspider.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/doubanmovie/doubanmovie/spiders/doubanspider.py" />
+        <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/doubanspider.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB/controlDB.py" />
+        <option value="$PROJECT_DIR$/novelspider/main.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_07_Redis/novelspider/spiders/novspider.py" />
+        <option value="$PROJECT_DIR$/novelspider/novelspider/spiders/novspider.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/settings.py" />
+        <option value="$PROJECT_DIR$/novelspider/novelspider/pipelines.py" />
+        <option value="$PROJECT_DIR$/novelspider/novelspider/settings.py" />
+        <option value="$PROJECT_DIR$/doubantest/doubantest/settings.py" />
+        <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" />
+        <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/spider.py" />
+        <option value="$PROJECT_DIR$/doubanmovie/main.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/conf.txt" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pcmd.py" />
+        <option value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/_config.ini" />
       </list>
     </option>
   </component>
@@ -351,9 +441,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="982" />
+    <option name="x" value="30" />
     <option name="y" value="23" />
-    <option name="width" value="938" />
+    <option name="width" value="905" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -374,6 +464,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -385,10 +476,6 @@
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.10 (/usr/bin/python) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -397,301 +484,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="file" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubantest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubantest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubantest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubantest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubantest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spiders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubanmovie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubanmovie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubanmovie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubanmovie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doubanmovie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spiders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="douban" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="douban" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="douban" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_05_srapy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="douban" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="douban" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spiders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wse2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jike_Crawler_kingname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="craw_04_login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -712,119 +510,109 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Jike_Crawler_kingname" />
       <recent name="$PROJECT_DIR$/pylucene_demo-master/input" />
       <recent name="$PROJECT_DIR$/jike/10-algo/6" />
       <recent name="$PROJECT_DIR$/jike/10-algo/45mergesort" />
-      <recent name="$PROJECT_DIR$/jike/10-algo/3selectionsort" />
-      <recent name="$PROJECT_DIR$/jike/10-algo/2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
-      <recent name="$PROJECT_DIR$/pylucene_test" />
-      <recent name="$PROJECT_DIR$/PyLucene-Demo-master/example" />
-      <recent name="$PROJECT_DIR$/pylucene_demo-master/index" />
-      <recent name="$PROJECT_DIR$/samples" />
+      <recent name="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_3" />
+      <recent name="$PROJECT_DIR$/Jike_Flask_REST" />
+      <recent name="$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish" />
+      <recent name="$PROJECT_DIR$/Jike_Flask_table/Flask_4_RP" />
+      <recent name="$PROJECT_DIR$/Jike_Flask_table/Flask_3_ORM" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in doubantest (1)">
-    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.example1 (1)">
+    <configuration default="false" name="example2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/example2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="webControl" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/webControl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in doubantest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="wse2017" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest" />
-      <option name="TEST_TYPE" value="TEST_FOLDER" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="doubanspider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="webControlWithDataBase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders/doubanspider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/webControlWithDataBase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in doubantest (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="wcc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest" />
-      <option name="TEST_TYPE" value="TEST_FOLDER" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/wcc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="example1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wse2017" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/example1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -1061,19 +849,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.IndexFiles_in" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.spider" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in doubantest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.doubanspider" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in doubantest (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.example2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.webControl" />
+      <item index="3" class="java.lang.String" itemvalue="Python.webControlWithDataBase" />
+      <item index="4" class="java.lang.String" itemvalue="Python.wcc" />
+      <item index="5" class="java.lang.String" itemvalue="Python.example1 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in doubantest (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.spider" />
-        <item index="2" class="java.lang.String" itemvalue="Python.doubanspider" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in doubantest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main" />
+        <item index="0" class="java.lang.String" itemvalue="Python.example1 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.wcc" />
+        <item index="2" class="java.lang.String" itemvalue="Python.webControlWithDataBase" />
+        <item index="3" class="java.lang.String" itemvalue="Python.webControl" />
+        <item index="4" class="java.lang.String" itemvalue="Python.example2" />
       </list>
     </recent_temporary>
   </component>
@@ -1277,7 +1065,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487235612656</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="pp">
+      <created>1487236701745</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1487236701745</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1313,30 +1108,30 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="982" y="23" width="938" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="30" y="23" width="905" height="1057" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28794643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34530708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5018929" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27979276" sideWeight="0.39123377" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27150258" sideWeight="0.7988102" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49810708" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="130" y="123" width="1690" height="857" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27979276" sideWeight="0.60876626" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49810708" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1369,292 +1164,289 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/py2app/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/bonjour/__init__.py">
+    <entry file="file:///Library/Python/2.7/site-packages/twisted/internet/defer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="235">
+          <caret line="652" column="0" lean-forward="false" selection-start-line="652" selection-start-column="0" selection-end-line="652" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/web/__init__.py">
+    <entry file="file:///Library/Python/2.7/site-packages/scrapy/core/engine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="235">
+          <caret line="312" column="0" lean-forward="false" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/web2py-2.1.1-py2.7.egg-info/installed-files.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/web2py-2.1.1-py2.7.egg-info/dependency_links.txt">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/web2py-2.1.1-py2.7.egg-info/SOURCES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="160" column="29" lean-forward="true" selection-start-line="160" selection-start-column="29" selection-end-line="160" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="577" column="0" lean-forward="true" selection-start-line="577" selection-start-column="0" selection-end-line="577" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/lnameok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/lrsmk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/lzmk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/4/lname_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/testModule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/09-Modules/lname.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/tieba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="1082" column="8" lean-forward="false" selection-start-line="1082" selection-start-column="8" selection-end-line="1082" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/1intro/4kongzhiliu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1166">
-          <caret line="64" column="3" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/testRex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/needheader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="120" column="62" lean-forward="true" selection-start-line="120" selection-start-column="62" selection-end-line="120" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/eachClass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/company.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/jikexueyuan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/lxml/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/test_special.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/xpath_regular.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/xpath_special.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/python-dis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_03_multi/tiebaspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/spider_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WSE_Crawler/simpleCrawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/spider_jikexueyuan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/main.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/settings.py">
+    <entry file="file:///Library/Python/2.7/site-packages/scrapy/core/scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/qqtvurl/qqtvurl/spiders/tvurl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_08_dynamic/jsreader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pyapi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/conf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pcmd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/mailHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ConfigParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="606" column="0" lean-forward="false" selection-start-line="606" selection-start-column="0" selection-end-line="606" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/configReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/mccLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/mcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/_config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC/utils/excutor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="948">
+          <caret line="44" column="93" lean-forward="true" selection-start-line="44" selection-start-column="93" selection-end-line="44" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/template2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/example1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/items.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/img/validate.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/static/img/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/template1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/util/DataBaseManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/webControl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/webControlWithDataBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/configReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/DataBaseManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/webControlWithDataBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/util/excutor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/_config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_12_flask/wcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_13_gui/example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Master/MasterSocket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1511">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/douban/douban/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Master/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1662,49 +1454,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders/doubanspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/scrapy.cfg">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Slave/Slave.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/scrapy/spiders/crawl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_04_login/xxoohelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="26" />
           <folding>
-            <element signature="e#20#34#0" expanded="true" />
+            <element signature="e#22#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/spiders/spider.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_14_remote/client_Master/Master.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/items.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/Test_ScreenShot/clipboard.bmp">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/Test_ScreenShot/advancedHelper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1712,7 +1487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/Test_ScreenShot/printScreen_PIL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1720,7 +1495,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/fileServer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/advancedHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/printScreen_PIL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1728,27 +1523,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest/settings.py">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/readWriteClipboard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/scrapy.cfg">
+    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_15_advanced/module/uploadImg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="242">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

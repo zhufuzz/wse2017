@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'qqtvurl.spiders'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'qqtvurl (+http://www.yourdomain.com)'
 
-ITEM_PIPELINES = ['qqtvurl.pipelines.QqtvurlPipeline']
+ITEM_PIPELINES = {'qqtvurl.pipelines.QqtvurlPipeline' : 300}
 
 SCHEDULER = "scrapy_redis.scheduler.Scheduler"
 SCHEDULER_PERSIST = True

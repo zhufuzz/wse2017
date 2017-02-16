@@ -2,7 +2,7 @@
 import pymongo
 
 connection = pymongo.MongoClient()
-tdb = connection.Jikexueyuan
+tdb = connection.Jikexueyuan_Crawler
 post_info = tdb.test
 
 jike = {'name':u'极客', 'age':'5', 'skill': 'Python'}

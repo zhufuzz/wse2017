@@ -1,0 +1,15 @@
+<html>
+<head></head>
+<body>
+	<div align="center">
+	<h1>User Management</h1>
+	{% for message in context %} {{message.context}}<br> {% endfor %}
+	<form method="post">
+		<input type="text" name="username" placeholder="Input the username you want to search">
+		<br/>
+		<input type="submit" value="Submit" />
+		<input type="reset" value="reset" /> 
+	</form>
+</div>
+</body>
+</html>
