@@ -14,7 +14,9 @@ def index():
 
 @app.route('/add', methods=['POST',])
 def add():
-    form = TodoForm(request.form)
+    #form = TodoForm(request.form)
+    form = request.form
+    # if form.validate():
     content = form['content']
     todo = Todo(content=content)
     todo.save()

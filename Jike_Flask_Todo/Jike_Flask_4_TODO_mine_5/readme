@@ -1,0 +1,7 @@
+给add button增加长度限制
+
+/Library/Python/2.7/site-packages/flask_mongoengine/wtf/models.py
+被修改了参数数目，object被删除掉
+另外在app的__init__里添加了app.config.from_object('config')
+
+这个时候还没有完全连接数据库，能从数据库读取命令行写入的记录但是不能写入

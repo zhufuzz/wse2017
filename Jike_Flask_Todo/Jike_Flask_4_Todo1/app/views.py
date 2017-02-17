@@ -1,4 +1,4 @@
- from app import app
+from app import app
 from flask import render_template,request
 from models import Todo, TodoForm
 from datetime import datetime

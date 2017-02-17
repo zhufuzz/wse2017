@@ -8,4 +8,4 @@ from flask import render_template
 def index():
     #form = TodoForm()
     #todos = Todo.objects.order_by('-time')
-    return render_template("index.html", todos = todos)
+    return render_template("index.html")
