@@ -1,6 +1,5 @@
 from app import db
 import datetime
-from flask_mongoengine.wtf import model_form
 
 
 class Todo(db.Document):
@@ -15,9 +14,9 @@ class Todo(db.Document):
             'time': self.time,
             'status': self.status
         }
+    
 
 
-TodoForm = model_form(Todo)
 
 
 
