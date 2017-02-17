@@ -1,0 +1,11 @@
+增加了mongodb的配置
+
+================
+database save
+
+python manage.py save
+
+
+创建todo数据库
+
+第二课结束

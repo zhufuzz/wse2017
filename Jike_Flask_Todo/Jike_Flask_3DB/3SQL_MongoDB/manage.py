@@ -4,11 +4,13 @@ from models import User
 
 manager = Manager(app)
 
+#python manage.py save
 @manager.command
 def save():
     user = User('jike', 'jike@jikexueyuan.com')
     user.save()
 
+#python manage.py query_all
 @manager.command
 def query_all():
     users = User.query_user()

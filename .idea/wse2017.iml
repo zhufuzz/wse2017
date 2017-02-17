@@ -5,6 +5,18 @@
     <orderEntry type="jdk" jdkName="Python 2.7.10 (/usr/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_2/app/templates" />
+        <option value="$MODULE_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_3/app/templates" />
+        <option value="$MODULE_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_4/app/templates" />
+        <option value="$MODULE_DIR$/Jike_Flask_Todo/Jike_Flask_5_TODO/app/templates" />
+        <option value="$MODULE_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/Todo/app/templates" />
+      </list>
+    </option>
+  </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
   </component>
