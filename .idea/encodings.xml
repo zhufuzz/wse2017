@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/conf.txt" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pcmd.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Flask_REST" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Flask_Todo" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/readme.txt" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Flask_table" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2zfuchuandechongfu.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2zhuanyifu.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Python_1/02_syntax/2string/2ziranzfuchuan.py" charset="GB2312" />
@@ -22,6 +28,6 @@
     <file url="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16hello.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16ts.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Python_1/16-remote3/16yckz.py" charset="GB2312" />
-    <file url="PROJECT" charset="UTF-8" />
+    <file url="PROJECT" charset="GB2312" />
   </component>
 </project>
