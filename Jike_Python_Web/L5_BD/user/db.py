@@ -1,6 +1,6 @@
 import MySQLdb
 
-conn = MySQLdb.connect("localhost","root","","test")
+conn = MySQLdb.connect("localhost","root","dashizi","test")
 
 cur = conn.cursor()
 

@@ -1,7 +1,7 @@
 import MySQLdb
 
 # connect to db
-conn = MySQLdb.connect("localhost","root","","test")
+conn = MySQLdb.connect("localhost","root","dashizi","test")
 
 # create cursor
 cur=conn.cursor()
