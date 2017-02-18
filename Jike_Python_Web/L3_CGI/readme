@@ -1,0 +1,5 @@
+python自带的  web服务器
+
+python -m CGIHTTPServer 8081
+
+http://localhost:8081/cgi-bin/main.py
