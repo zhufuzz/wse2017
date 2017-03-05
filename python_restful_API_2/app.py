@@ -9,11 +9,12 @@ import hmac
 from datetime import datetime, timedelta
 
 from flask import Flask, request, redirect, make_response
-from flask.ext import restful
-from flask.ext.restful import fields, marshal_with
+# from flask_restful import restful
+from flask_restful import fields, marshal_with, Api
+from flask_api import FlaskAPI
 
 app = Flask(__name__)
-api = restful.Api(app)
+api = Api(app)
 
 users = {
     "magigo": ["123456"]
