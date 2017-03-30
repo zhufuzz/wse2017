@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)http://127.0.0.1:5000/search/?inputword=web -->
+<html style="height: 100%">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>huodahaha Search Engine</title>
+    <link type="text/css" rel="stylesheet" href="/static/display.css">
+    <script type="text/javascript" src="/static/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/static/display.js"></script>
+</head>
+
+<body>
+    <div class="content">
+        <div class="banner">
+            <img class="logo" src="/static/banner.png" a="/">
+            <form class="box" action="http://127.0.0.1:5000/search" method="get">
+                <input type="text" name="inputword" class="searchword" value="{{keyword}}">
+                <input type="submit" value="Search" class="sub-but">
+            </form>
+        </div>
+
+        <div class="details">
+            <div class="no-result" style="display:block;padding-top: 50px;">
+                Your search <em>{{keyword}}</em> did not match any documents.
+            </div>
+        </div>
+
+        <div class="footer">
+            <p class="copyright">@Copyright Da Huo</p>
+        </div>
+    </div>
+
+
+</body>
+<div></div>
+
+</html>

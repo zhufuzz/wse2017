@@ -1,0 +1,3 @@
+[submodule "example/scrapy_util"]
+	path = example/scrapy_util
+	url = https://github.com/mattes/scrapy_util.git

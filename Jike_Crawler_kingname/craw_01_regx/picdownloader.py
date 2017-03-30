@@ -2,12 +2,12 @@
 import re
 import requests
 
-#读取源代码文件
+#璇诲��婧�浠ｇ����浠�
 f = open('source.txt','r')
 html = f.read()
 f.close()
 
-#匹配图片网址
+#�归���剧��缃���
 pic_url = re.findall('img src="(.*?)" class="lessonimg"',html,re.S)
 i = 0
 for each in pic_url:
