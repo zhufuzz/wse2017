@@ -6,7 +6,7 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #
 import os
-
+''''''
 if os.environ.get('HTTP_PROXY'):
   HTTP_PROXY = os.environ.get('HTTP_PROXY')
 else:

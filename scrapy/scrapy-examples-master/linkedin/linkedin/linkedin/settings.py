@@ -18,9 +18,9 @@ DOWNLOADER_MIDDLEWARES = {
 }
 
 ########### Item pipeline
-ITEM_PIPELINES = [
-                  "linkedin.pipelines.MongoDBPipeline",
-]
+ITEM_PIPELINES = {
+                  "linkedin.pipelines.MongoDBPipeline":300,
+}
 
 MONGODB_SERVER = 'localhost'
 MONGODB_PORT = 27017

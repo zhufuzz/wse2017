@@ -1,9 +1,6 @@
-from HTMLParser import HTMLParser
-from urllib import urlopen
-try:
-    from urllib.parse import urlparse
-except ImportError:
-     from urlparse import urlparse
+from html.parser import HTMLParser
+from urllib.request import urlopen
+from urllib import parse
 
 # We are going to create a class called LinkParser that inherits some
 # methods from HTMLParser which is why it is passed into the definition
@@ -25,7 +22,7 @@ class LinkParser(HTMLParser):
                     # We combine a relative URL with the base URL to create
                     # an absolute URL like:
                     # www.netinstructions.com/somepage.html
-                    newUrl = urlparse.urljoin(self.baseUrl, value, False)
+                    newUrl = parse.urljoin(self.baseUrl, value)
                     # And add it to our colection of links:
                     self.links = self.links + [newUrl]
 
@@ -69,7 +66,7 @@ def spider(url, word, maxPages):
         url = pagesToVisit[0]
         pagesToVisit = pagesToVisit[1:]
         try:
-            print numberVisited, "Visiting:", url
+            print(numberVisited, "Visiting:", url)
             parser = LinkParser()
             data, links = parser.getLinks(url)
             if data.find(word)>-1:
@@ -77,12 +74,13 @@ def spider(url, word, maxPages):
                 # Add the pages that we visited to the end of our collection
                 # of pages to visit:
                 pagesToVisit = pagesToVisit + links
-                print " **Success!**"
+                print(" **Success!**")
         except:
-            print " **Failed!**"
+            print(" **Failed!**")
     if foundWord:
-        print "The word", word, "was found at", url
+        print("The word", word, "was found at", url)
     else:
-        print "Word never found"
+        print("Word never found")
         
 spider("http://www.dreamhost.com", "secure", 200)
+#spider("http://cs.nyu.edu/courses/spring17/CSCI-GA.2580-001/", "a", 200)

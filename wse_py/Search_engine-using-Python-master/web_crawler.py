@@ -41,5 +41,5 @@ def print_all_links(page):
 		else:
 			break 
 
-#print(print_all_links(get_page("http://en.wikipedia.org/wiki/Udacity")))
-print_all_links(get_page('http://xkcd.com/353'))
+print(print_all_links(get_page("http://www.6park.com/")))
+#print_all_links(get_page('http://www.6park.com/'))
