@@ -2,13 +2,14 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/picdownloader.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/jikexueyuan.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/tieba.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/basic_re.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx/picdownloader.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/company.py" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/jikexueyuan.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single/tieba.py" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/conf.txt" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname/craw_09_wechat/pcmd.py" charset="GB2312" />
-    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Flask_REST" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Flask_Todo" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/readme.txt" charset="GB2312" />

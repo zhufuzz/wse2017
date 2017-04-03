@@ -1,6 +1,0 @@
-cd /Users/tzh/PycharmProjects/wse2017/pylucene_sample_test/samples
-
-python IndexFiles.py /Users/tzh/PycharmProjects/wse2017/pylucene_sample_test/samples/input
-
-
-

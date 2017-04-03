@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+.env/
+venv/
+*.rdb
+db/
+.idea
+data/index.p
+data/rank.p

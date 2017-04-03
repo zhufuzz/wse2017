@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+    {% include 'header.html' %}
+        <div class="content-head">
+            <div class="pure-g-r grid-example">
+                <div class="pure-u-1-1">
+                    <div class="l-box">
+                        <p>About {{ stats.num_results }} ({{ seconds }} seconds)</p>
+                    </div>
+                </div>
+                {% for w in search_results %}
+                    {% if w.description != "" %}
+                        <div class="pure-u-1-1">
+                            <div class="l-box">
+                                <a href="{{ w.url }}"><h3>{{ w.title }}</h3></a>
+                                <pre>{{ w.url }}</pre>
+                                <p>{{ w.description }}</p>
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    {% include 'footer.html' %}
+
+{% endblock %}
