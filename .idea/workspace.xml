@@ -7,46 +7,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/apache1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/apache1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/apache2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/cpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/epl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/freebsd.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/gpl1.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/gpl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/gpl3.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/lgpl2.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/lgpl3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/lpgl2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/mit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/mozilla1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/mozilla_eula_firefox3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/mozilla_eula_thunderbird2.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pylucene_demo-master/index/_1.fdt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/_6.cfe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/_6.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/_6.si" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/segments_7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/IndexFiles.index/write.lock" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_demo-master/index/_1.fdx" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples/input/data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_demo-master/index/write.lock" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples/note" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/apache1.0.txt" afterPath="$PROJECT_DIR$/samples/input/apache1.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/apache1.1.txt" afterPath="$PROJECT_DIR$/samples/input/apache1.1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/apache2.0.txt" afterPath="$PROJECT_DIR$/samples/input/apache2.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/cpl1.0.txt" afterPath="$PROJECT_DIR$/samples/input/cpl1.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/epl1.0.txt" afterPath="$PROJECT_DIR$/samples/input/epl1.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/freebsd.txt" afterPath="$PROJECT_DIR$/samples/input/freebsd.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/gpl1.0.txt" afterPath="$PROJECT_DIR$/samples/input/gpl1.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/gpl2.0.txt" afterPath="$PROJECT_DIR$/samples/input/gpl2.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/gpl3.0.txt" afterPath="$PROJECT_DIR$/samples/input/gpl3.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/lgpl2.1.txt" afterPath="$PROJECT_DIR$/samples/input/lgpl2.1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/lgpl3.txt" afterPath="$PROJECT_DIR$/samples/input/lgpl3.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/lpgl2.0.txt" afterPath="$PROJECT_DIR$/samples/input/lpgl2.0.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/mit.txt" afterPath="$PROJECT_DIR$/samples/input/mit.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/mozilla1.1.txt" afterPath="$PROJECT_DIR$/samples/input/mozilla1.1.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/mozilla_eula_firefox3.txt" afterPath="$PROJECT_DIR$/samples/input/mozilla_eula_firefox3.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/samples/input_1/mozilla_eula_thunderbird2.txt" afterPath="$PROJECT_DIR$/samples/input/mozilla_eula_thunderbird2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/IndexFiles.index/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/pages/_0.cfe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/pages/_0.cfs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/pages/_0.si" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/pages/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/pages/write.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input1/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/FacetExample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/IndexFiles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/PorterStemmerAnalyzer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/SearchFiles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/TermPositionVector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/ThreadIndexFiles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/apache1.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/apache1.1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/apache2.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/cpl1.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/epl1.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/freebsd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/gpl1.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/gpl2.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/gpl3.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/lgpl2.1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/lgpl3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/lpgl2.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/mit.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/mozilla1.1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/mozilla_eula_firefox3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/input/mozilla_eula_thunderbird2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/manindex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/mansearch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples2/note" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/callsh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/static7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/try/try1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/FacetExample.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/FacetExample.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/IndexFiles.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/IndexFiles.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/PorterStemmerAnalyzer.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/PorterStemmerAnalyzer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/SearchFiles.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/SearchFiles.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/TermPositionVector.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/TermPositionVector.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/ThreadIndexFiles.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/ThreadIndexFiles.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/input/data" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/input/data" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/manindex.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/manindex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/mansearch.py" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/mansearch.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pylucene_sample_test/samples/note" afterPath="$PROJECT_DIR$/pylucene_sample_test/samples2/note" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,12 +81,15 @@
     <SUITE FILE_PATH="coverage/wse2017$2changliang.coverage" NAME="2changliang Coverage Results" MODIFIED="1486307377363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
     <SUITE FILE_PATH="coverage/wse2017$Unittests_in_doubantest__1_.coverage" NAME="Unittests in doubantest (1) Coverage Results" MODIFIED="1487236653760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest/doubantest" />
     <SUITE FILE_PATH="coverage/wse2017$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1490908722548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest" />
+    <SUITE FILE_PATH="coverage/wse2017$web_app.coverage" NAME="web_app Coverage Results" MODIFIED="1491174176631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web" />
+    <SUITE FILE_PATH="coverage/wse2017$static4.coverage" NAME="static4 Coverage Results" MODIFIED="1491179563969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$3youxianjishili.coverage" NAME="3youxianjishili Coverage Results" MODIFIED="1486310800087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/4" />
     <SUITE FILE_PATH="coverage/wse2017$Unittest_TodoTestCase_test_hello.coverage" NAME="Unittest TodoTestCase.test_hello Coverage Results" MODIFIED="1487362153648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO/tests" />
-    <SUITE FILE_PATH="coverage/wse2017$wikipedia_topic_modeling.coverage" NAME="wikipedia_topic_modeling Coverage Results" MODIFIED="1486961616850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wikipedia-indexing-master" />
+    <SUITE FILE_PATH="coverage/wse2017$wikipedia_topic_modeling.coverage" NAME="wikipedia_topic_modeling Coverage Results" MODIFIED="1491171031677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wikipedia-indexing-master" />
     <SUITE FILE_PATH="coverage/wse2017$FacetExample.coverage" NAME="FacetExample Coverage Results" MODIFIED="1491097116040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pylucene_sample_test/samples" />
     <SUITE FILE_PATH="coverage/wse2017$lname_.coverage" NAME="lname_ Coverage Results" MODIFIED="1487229308783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/09-Modules/4" />
     <SUITE FILE_PATH="coverage/wse2017$4for.coverage" NAME="4for Coverage Results" MODIFIED="1486311531664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/4for" />
+    <SUITE FILE_PATH="coverage/wse2017$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1491172063955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$webControlWithDataBase.coverage" NAME="webControlWithDataBase Coverage Results" MODIFIED="1487265675650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
     <SUITE FILE_PATH="coverage/wse2017$lucene_demo.coverage" NAME="lucene_demo Coverage Results" MODIFIED="1488749095703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyLucene-Demo-master/example" />
     <SUITE FILE_PATH="coverage/wse2017$16yckz.coverage" NAME="16yckz Coverage Results" MODIFIED="1486314772580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/16-remote3" />
@@ -86,6 +102,7 @@
     <SUITE FILE_PATH="coverage/wse2017$lextab.coverage" NAME="lextab Coverage Results" MODIFIED="1490909950451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy-Samples-master/basicspider" />
     <SUITE FILE_PATH="coverage/wse2017$TestStringMethods.coverage" NAME="TestStringMethods Coverage Results" MODIFIED="1487043707664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$run__3_.coverage" NAME="run (3) Coverage Results" MODIFIED="1487368031460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_6_TODO" />
+    <SUITE FILE_PATH="coverage/wse2017$static2__1_.coverage" NAME="static2 (1) Coverage Results" MODIFIED="1491179321951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$13sysqita.coverage" NAME="13sysqita Coverage Results" MODIFIED="1485663263508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/12-std-lib" />
     <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_split.coverage" NAME="Unittest TestStringMethods.test_split Coverage Results" MODIFIED="1487078802520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1490909835462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/novelspider" />
@@ -97,6 +114,7 @@
     <SUITE FILE_PATH="coverage/wse2017$13_gui.coverage" NAME="13-gui Coverage Results" MODIFIED="1485666040642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/13-other" />
     <SUITE FILE_PATH="coverage/wse2017$yacctab.coverage" NAME="yacctab Coverage Results" MODIFIED="1490909946767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy-Samples-master/basicspider" />
     <SUITE FILE_PATH="coverage/wse2017$8tree.coverage" NAME="8tree Coverage Results" MODIFIED="1485649484672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/08-data-structure/1" />
+    <SUITE FILE_PATH="coverage/wse2017$static5.coverage" NAME="static5 Coverage Results" MODIFIED="1491179797034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$company.coverage" NAME="company Coverage Results" MODIFIED="1487232280032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
     <SUITE FILE_PATH="coverage/wse2017$IndexFiles_in.coverage" NAME="IndexFiles_in Coverage Results" MODIFIED="1487004496488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples" />
     <SUITE FILE_PATH="coverage/wse2017$run__4_.coverage" NAME="run (4) Coverage Results" MODIFIED="1487352246557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_3" />
@@ -145,6 +163,7 @@
     <SUITE FILE_PATH="coverage/wse2017$mcc.coverage" NAME="mcc Coverage Results" MODIFIED="1487261215792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_10_MCC" />
     <SUITE FILE_PATH="coverage/wse2017$controlDB.coverage" NAME="controlDB Coverage Results" MODIFIED="1487252925621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_06_DB" />
     <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_upper.coverage" NAME="Unittest TestStringMethods.test_upper Coverage Results" MODIFIED="1487043624865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
+    <SUITE FILE_PATH="coverage/wse2017$static2.coverage" NAME="static2 Coverage Results" MODIFIED="1491179229715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$spider__1_.coverage" NAME="spider (1) Coverage Results" MODIFIED="1487237707357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname_scrapytest/doubantest/spiders" />
     <SUITE FILE_PATH="coverage/wse2017$doubanspider.coverage" NAME="doubanspider Coverage Results" MODIFIED="1487236555755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubanmovie/doubanmovie/spiders" />
     <SUITE FILE_PATH="coverage/wse2017$2danyinghao.coverage" NAME="2danyinghao Coverage Results" MODIFIED="1486307542797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
@@ -153,7 +172,9 @@
     <SUITE FILE_PATH="coverage/wse2017$app.coverage" NAME="app Coverage Results" MODIFIED="1488755127097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_8_TODO/mywsgi" />
     <SUITE FILE_PATH="coverage/wse2017$2hanglianjie.coverage" NAME="2hanglianjie Coverage Results" MODIFIED="1486310192175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/6line-indent" />
     <SUITE FILE_PATH="coverage/wse2017$jkxy.coverage" NAME="jkxy Coverage Results" MODIFIED="1488753503237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_Web/L3_CGI/cgi-bin" />
+    <SUITE FILE_PATH="coverage/wse2017$callsh.coverage" NAME="callsh Coverage Results" MODIFIED="1491173945566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1486307390347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/1" />
+    <SUITE FILE_PATH="coverage/wse2017$static7.coverage" NAME="static7 Coverage Results" MODIFIED="1491180178829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$3shenmeshibiaodashi.coverage" NAME="3shenmeshibiaodashi Coverage Results" MODIFIED="1486310412899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/03-operators-and-expressions/6" />
     <SUITE FILE_PATH="coverage/wse2017$m10jc.coverage" NAME="m10jc Coverage Results" MODIFIED="1485658469326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/10-oop" />
     <SUITE FILE_PATH="coverage/wse2017$2shuangyhao.coverage" NAME="2shuangyhao Coverage Results" MODIFIED="1486307526918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/02_syntax/2string" />
@@ -197,6 +218,8 @@
     <SUITE FILE_PATH="coverage/wse2017$4kongzhiliu.coverage" NAME="4kongzhiliu Coverage Results" MODIFIED="1487231275518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/1intro" />
     <SUITE FILE_PATH="coverage/wse2017$Unittests_in_doubantest.coverage" NAME="Unittests in doubantest Coverage Results" MODIFIED="1487236459886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_05_srapy/doubantest" />
     <SUITE FILE_PATH="coverage/wse2017$11ycyf.coverage" NAME="11ycyf Coverage Results" MODIFIED="1485660236327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
+    <SUITE FILE_PATH="coverage/wse2017$static6.coverage" NAME="static6 Coverage Results" MODIFIED="1491179908991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
+    <SUITE FILE_PATH="coverage/wse2017$static3.coverage" NAME="static3 Coverage Results" MODIFIED="1491179425983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$11wjcz.coverage" NAME="11wjcz Coverage Results" MODIFIED="1485661236452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jike/11-exception_file" />
     <SUITE FILE_PATH="coverage/wse2017$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1487264479960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_11_flask" />
     <SUITE FILE_PATH="coverage/wse2017$Unittests_in_app.coverage" NAME="Unittests in app Coverage Results" MODIFIED="1487394367080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Flask_REST/python_restful_API_2" />
@@ -207,6 +230,7 @@
     <SUITE FILE_PATH="coverage/wse2017$jkxy__1_.coverage" NAME="jkxy (1) Coverage Results" MODIFIED="1488753533684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_2/1/cgi-bin" />
     <SUITE FILE_PATH="coverage/wse2017$4if.coverage" NAME="4if Coverage Results" MODIFIED="1486310494798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Python_1/04_Python-control-flow/2if" />
     <SUITE FILE_PATH="coverage/wse2017$run.coverage" NAME="run Coverage Results" MODIFIED="1490911179295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebSearchEngine-master" />
+    <SUITE FILE_PATH="coverage/wse2017$static.coverage" NAME="static Coverage Results" MODIFIED="1491179094690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try" />
     <SUITE FILE_PATH="coverage/wse2017$Unittest_TestStringMethods_test_hello.coverage" NAME="Unittest TestStringMethods.test_hello Coverage Results" MODIFIED="1487045012414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_01_regx" />
     <SUITE FILE_PATH="coverage/wse2017$indexer.coverage" NAME="indexer Coverage Results" MODIFIED="1490908479053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple-search-master" />
     <SUITE FILE_PATH="coverage/wse2017$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1490909071773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jike_Crawler_kingname/craw_02_single" />
@@ -248,38 +272,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="luceneInx.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pylucene_demo-master/luceneInx.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="101" column="42" lean-forward="true" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexFiles.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/samples/IndexFiles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1159">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FacetExample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/FacetExample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-881">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -290,14 +283,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>IndexWriter</find>
-      <find>spider</find>
-      <find>parse</find>
-      <find>urljoin</find>
-      <find>print(</find>
-      <find>old_url</find>
-      <find>=================================</find>
-      <find>&lt;li deg=</find>
       <find>href=</find>
       <find>HTMLParser</find>
       <find>basic_re</find>
@@ -320,7 +305,18 @@
       <find>cls</find>
       <find>FacetsConfig</find>
       <find>INDEX_DIR</find>
+      <find>Ticker</find>
+      <find>env</find>
+      <find>LimitTokenCountAnalyzer</find>
+      <find>mkdir_p</find>
+      <find>keyword</find>
+      <find>courses_info</find>
+      <find>search_times</find>
+      <find>stylesheetstylesheet</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
@@ -331,17 +327,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_1/app/__init__.py" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_1/readmm" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_1/readme" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_2/readme" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_2/app/templates/index.html" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_Todo1/app/views.py" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_3/app/views.py" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_3/readme" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_4/app/templates/index.html" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_2/app/views.py" />
-        <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_5/app/templates/index.html" />
         <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_4/readme" />
         <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_4/app/views.py" />
         <option value="$PROJECT_DIR$/Jike_Flask_Todo/Jike_Flask_4_TODO_mine_5/app/views.py" />
@@ -382,6 +367,17 @@
         <option value="$PROJECT_DIR$/pylucene_sample_test/samples/input/data" />
         <option value="$PROJECT_DIR$/pylucene_sample_test/samples/note" />
         <option value="$PROJECT_DIR$/pylucene_demo-master/luceneInx.py" />
+        <option value="$PROJECT_DIR$/samples/IndexFiles.py" />
+        <option value="$PROJECT_DIR$/samples/ThreadIndexFiles.py" />
+        <option value="$PROJECT_DIR$/try/try1.py" />
+        <option value="$PROJECT_DIR$/try/callsh.py" />
+        <option value="$PROJECT_DIR$/try/static.py" />
+        <option value="$PROJECT_DIR$/try/static3.py" />
+        <option value="$PROJECT_DIR$/try/static2.py" />
+        <option value="$PROJECT_DIR$/try/static4.py" />
+        <option value="$PROJECT_DIR$/try/static5.py" />
+        <option value="$PROJECT_DIR$/try/static6.py" />
+        <option value="$PROJECT_DIR$/try/static7.py" />
       </list>
     </option>
   </component>
@@ -398,7 +394,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="30" />
     <option name="y" value="23" />
-    <option name="width" value="1890" />
+    <option name="width" value="945" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -420,6 +416,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -442,7 +439,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pylucene_demo-master" />
+              <option name="myItemId" value="WebSearchEngine-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,17 +453,268 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pylucene_demo-master" />
+              <option name="myItemId" value="WebSearchEngine-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="searcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSearchEngine-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="try" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wse2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -479,6 +727,7 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.selected.package.jscs" value="" />
+    <property name="SearchEverywhereHistoryKey" value="Ticker&#9;null&#9;null" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -490,18 +739,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/samples2" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Jike_Crawler_kingname" />
       <recent name="$PROJECT_DIR$/pylucene_demo-master/input" />
       <recent name="$PROJECT_DIR$/jike/10-algo/6" />
-      <recent name="$PROJECT_DIR$/jike/10-algo/45mergesort" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/samples/input1" />
+      <recent name="$PROJECT_DIR$/samples2/input" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/samples" />
       <recent name="$PROJECT_DIR$/pylucene_sample_test/samples/index" />
-      <recent name="$PROJECT_DIR$/pylucene_sample_test/samples/input" />
-      <recent name="$PROJECT_DIR$/pylucene_sample_test" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -516,97 +765,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.luceneInx">
-    <configuration default="false" name="SearchFiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.static7">
+    <configuration default="false" name="static3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_sample_test/samples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_sample_test/samples/SearchFiles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/static3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="IndexFiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="static4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_sample_test/samples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_sample_test/samples/IndexFiles.py" />
-      <option name="PARAMETERS" value="input" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FacetExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_sample_test/samples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="wse2017" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_sample_test/samples/FacetExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/static4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="luceneInx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="static5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_demo-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_demo-master/luceneInx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/static5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="luceneQryMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="static6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pylucene_demo-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="wse2017" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pylucene_demo-master/luceneQryMain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/static6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="static7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/try" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wse2017" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try/static7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -826,19 +1075,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.IndexFiles_in" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SearchFiles" />
-      <item index="2" class="java.lang.String" itemvalue="Python.IndexFiles" />
-      <item index="3" class="java.lang.String" itemvalue="Python.FacetExample" />
-      <item index="4" class="java.lang.String" itemvalue="Python.luceneInx" />
-      <item index="5" class="java.lang.String" itemvalue="Python.luceneQryMain" />
+      <item index="1" class="java.lang.String" itemvalue="Python.static3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.static4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.static5" />
+      <item index="4" class="java.lang.String" itemvalue="Python.static6" />
+      <item index="5" class="java.lang.String" itemvalue="Python.static7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.luceneInx" />
-        <item index="1" class="java.lang.String" itemvalue="Python.IndexFiles" />
-        <item index="2" class="java.lang.String" itemvalue="Python.luceneQryMain" />
-        <item index="3" class="java.lang.String" itemvalue="Python.FacetExample" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SearchFiles" />
+        <item index="0" class="java.lang.String" itemvalue="Python.static7" />
+        <item index="1" class="java.lang.String" itemvalue="Python.static6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.static5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.static4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.static3" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -864,6 +1113,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1174,7 +1426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491083525677</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="pp">
+      <created>1491107865873</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1491107865873</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1210,19 +1469,20 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1890" height="1057" extended-state="6" />
+    <frame x="30" y="23" width="945" height="1057" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19642857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19378239" sideWeight="0.4559359" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10678871" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22348484" sideWeight="0.5440641" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18549223" sideWeight="0.5440641" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1865285" sideWeight="0.4974208" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49810708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2868217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10678871" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49810708" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1232,7 +1492,6 @@
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294031" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.49320036" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1297,7 +1556,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pylucene_sample_test/samples/IndexFiles.py</url>
+          <url>file://$PROJECT_DIR$/pylucene_sample_test/samples2/IndexFiles.py</url>
           <line>4</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
@@ -1307,272 +1566,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/Books.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-937">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/Resources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stackoverflow/stackoverflow_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/dmoz_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/tmp/data/crawler_output.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/utils/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/utils/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/crawler/course_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/crawler/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4226">
-          <caret line="233" column="8" lean-forward="false" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/crawler/file_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/crawler/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/PageRank/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/web_app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/searcher/course_indexer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="103" column="23" lean-forward="false" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/test/func_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/banner.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/display.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/display.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/templates/display_new.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/searcher/course_searcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/templates/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/test/BaseTokenStreamTestCase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/PorterStemmerAnalyzer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/TermPositionVector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/348993582/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="2279" column="14" lean-forward="false" selection-start-line="2279" selection-start-column="14" selection-end-line="2279" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/mansearch.py">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/mansearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/ThreadIndexFiles.py">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/ThreadIndexFiles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/manindex.py">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/manindex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1672">
           <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
@@ -1580,32 +1588,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/input/data.tsv" />
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/SearchFiles.py">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/SearchFiles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="48" column="27" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/FacetExample.py">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/FacetExample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="281" column="24" lean-forward="false" selection-start-line="281" selection-start-column="24" selection-end-line="281" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/input/data">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/input/data">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_demo-master/input/apache1.0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1613,7 +1613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-134">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1622,21 +1621,19 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/note">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/note">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples/IndexFiles.py">
+    <entry file="file://$PROJECT_DIR$/pylucene_sample_test/samples2/IndexFiles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="927">
           <caret line="103" column="25" lean-forward="true" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
@@ -1650,22 +1647,323 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="101" column="42" lean-forward="true" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pylucene_demo-master/input/apache1.0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples2/IndexFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/FacetExample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-881">
+        <state relative-caret-position="-414">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1300#1322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/manindex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/ThreadIndexFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-search-master/indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/SearchFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikipedia-indexing-master/wikipedia_topic_modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+          <folding>
+            <element signature="e#204#233#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/tmp/log/WSE.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/try1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/tmp/data/crawler_output.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/utils/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/IndexFiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1159">
+        <state relative-caret-position="1606">
+          <caret line="82" column="52" lean-forward="false" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/searcher/course_indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-946">
+          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="20" />
+          <folding>
+            <element signature="e#39#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1899">
+          <caret line="781" column="8" lean-forward="false" selection-start-line="781" selection-start-column="8" selection-end-line="781" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/crawler/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1558">
+          <caret line="106" column="29" lean-forward="true" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/callsh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/searcher/course_searcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/templates/no_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/web_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="30" />
+          <folding>
+            <element signature="e#10#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/static/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/templates/display_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="74" lean-forward="false" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/web/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/crawler/course_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/348993582/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="4280" column="0" lean-forward="false" selection-start-line="4280" selection-start-column="0" selection-end-line="4281" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSearchEngine-master/SearchEngine/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/static7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
