@@ -82,5 +82,5 @@ def spider(url, word, maxPages):
     else:
         print("Word never found")
         
-spider("http://www.dreamhost.com", "secure", 200)
-#spider("http://cs.nyu.edu/courses/spring17/CSCI-GA.2580-001/", "a", 200)
+#spider("http://www.dreamhost.com", "secure", 200)
+spider("http://www.bbc.com/news", "the", 20000)

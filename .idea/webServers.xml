@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e393051b-da71-4aca-9072-9205fcdf9363" name="cims" url="http://access.cims.nyu.edu">
+        <fileTransfer host="access.cims.nyu.edu" port="22" rootFolder="/web/tz406" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
