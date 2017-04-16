@@ -6,28 +6,22 @@ import cgi, cgitb
 cgitb.enable()
 form = cgi.FieldStorage()
 f = open('/web/tz406/cgi-bin/StationEntrances.csv', 'r')
-#f = open('/Users/tzh/Downloads/StationEntrances.csv', 'r')
 
+#read all lines from file, since file is small
 allLines = f.readlines()
 f.close()
 length = len(allLines)
 
-
-# s = set()
-# for i in allLines:
-#     s.add(i)
-Station_Names = {}
-Station_Latitudes = {}
-Station_Latitudes = {}
-rounts = {}
-
-#print file_list
-
-#{"station name":[long,lati,line]}
 dic = {}
 name_set = set()
 route_set = set()
 routes = []
+
+#create dictionary from all lines
+#use station name as key
+#longitude, latitude, routes as value
+#also create name_set which has unique station names
+#create route_set which has unique route names
 for i in range(1, length):
 	list = allLines[i].split(',')
 	content = []
@@ -42,44 +36,41 @@ for i in range(1, length):
 		route_set.add(list[i])
 	dic[name] = content
 
-#print dic
-#exit(0)
-
+#get name_list from name_set
 name_list = []
 for i in name_set:
 	if i != '':
 		name_list.append(i)
-#random.shuffle(name_list)
+random.shuffle(name_list)
 
-
+#get route_list from route_set
 route_list = []
 for i in route_set:
 	if i != '':
 		route_list.append(i)
 
-QandA  = {}
+
 correct_names = []
 correct_route_lists = []
 wrong_route_lists = []
 coordinates = []
 
-numQuestions = 2
-
+numQuestions = 5
+numChoices = 4
 for i in range(0,numQuestions):
+	#choose one name in the name_list as correct answer
 	name = name_list[i]
-	#print name
 	correct_names.append(name)
-	
+	#get the coordinates of this station
 	coordinate = []
 	coordinate.append(dic[name][0])
 	coordinate.append(dic[name][1])
 	coordinates.append(coordinate)
-	#print coordinate
-
+	#get all the possible correct routes at this station
 	correct_route_list = []
 	for i in range(2, len(dic[name])):
 		correct_route_list.append(dic[name][i])
-		
+	#get all the possible wrong routes at this station
 	wrong_route_set = route_set - set(correct_route_list)
 	wrong_route_list = []
 	for i in wrong_route_set:
@@ -95,27 +86,26 @@ for i in range(0,numQuestions):
 #print answers
 #print coordinates
 #print otherChoices
-
 #exit(0)
+
 answers = []
 
-# print "Content-type:text/html\n\n"
-# print "<h1> MTA Subway Quiz</h1>"
 print "Content-type:text/html\n\n"
 
+#default web page
 if os.environ['REQUEST_METHOD'] == 'GET':
 	print "<html>"
 	print "<body>"
 	print "<h2>MTA Quiz</h2><FORM ACTION=hw4.cgi METHOD=POST><OL>"
 	c = 0.0011
 	
+	#get numQuestions amout of questions
 	for i in range(0,numQuestions):
 		print 'Question '+str(i+1)
+		#get the station name
 		station_name = correct_names[i].split(',')[0]
-		#print 'Which line stops at '+station_name+'?'
-		
 		print "<p><li><b>" + 'Which line stops at '+station_name+'?'
-		#station_name = correct_names.split(',')[0]
+		#get the coordinates for web presentation
 		longitude =  coordinates[i][0]
 		latitude =   coordinates[i][1]
 		long_minus_c =  float(longitude) - c
@@ -123,33 +113,25 @@ if os.environ['REQUEST_METHOD'] == 'GET':
 		long_plus_c  = float(longitude) + c
 		lati_plus_c =  float(latitude) + c
 		
+		#put correct answer and (numChoices - 1) number of wrong answers
 		choices = []
 		random.shuffle(correct_route_lists[i])
 		answer = correct_route_lists[i][0]
 		choices.append(answer)
 		random.shuffle(wrong_route_lists[i])
-		for j in range(0,3):
+		for j in range(0,numChoices - 1):
 			choices.append(wrong_route_lists[i][j])
 		random.shuffle(choices)
-		#print choices
 		
+		#show map
 		print "<p>"
-		print '<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"'+'src="http://www.openstreetmap.org/export/embed.html?bbox='+str(lati_minus_c)+','+str(long_minus_c)+','+str(lati_plus_c)+','+str(long_plus_c)+'&layer=hot&marker='+str(longitude)+','+str(latitude)+'"'+'style="border: 1px solid black"></iframe>'
+		print '<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"'+'src="http://www.openstreetmap.org/export/embed.html?bbox='
+		print str(lati_minus_c)+','+str(long_minus_c)+','+str(lati_plus_c)+','+str(long_plus_c)+'&layer=hot&marker='+str(longitude)+','+str(latitude)+'"'+'style="border: 1px solid black"></iframe>'
 		print "<p>"
-		
-		
-		print "<input type=hidden name=s"+str(i)+"value="+station_name+">"
-		#print '< input type = "hidden" name =a' + str(i) + ' value = '+station_name+'>'
-		#print '< input type = "hidden" name =s' + str(i) + ' value = "34th St" >'
-		print "<input type=hidden name=a"+str(i)+"value ="+answer+">"
-		#print '< input type = "hidden" name =s' + str(i) + ' value = '+station_name+'>'
-		
-		for j in range(0, 4):
-			print "<input type=radio name=q"+str(i)+" value="+choices[j]+">"+choices[j]+"<br>"
-		
 
-		
-		
+		#show choices
+		for j in range(0, numChoices):
+			print "<input type=radio name=q"+str(i)+" value="+choices[j]+">"+choices[j]+"<br>"
 		print "</li>"
 		
 print "</OL><INPUT TYPE=SUBMIT VALUE=Grade></FORM>"
@@ -162,8 +144,6 @@ if os.environ['REQUEST_METHOD'] == 'POST':
 	correctAnswers = []
 	wrongAnswers = []
 	for i in range(0, numQuestions):
-		#print form["q"+str(i)].value
-		#print form["q"+str(i)]
 		if form["q"+str(i)].value in correct_route_lists[i]:
 			numCorrect += 1
 			correctAnswers.append(name_list[i])
@@ -171,7 +151,6 @@ if os.environ['REQUEST_METHOD'] == 'POST':
 			numWrong += 1
 			wrongAnswers.append(form["q"+str(i)].value)
 
-	# layout
 	print "<html>"
 	print "<body>"
 	print "submit"
