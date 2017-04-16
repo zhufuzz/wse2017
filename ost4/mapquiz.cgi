@@ -1,5 +1,8 @@
 #! /usr/bin/python
-
+# Tianhui Zhu
+# N18846520
+# tz406@nyu.edu
+# http://cims.nyu.edu/~tz406/cgi-bin/mapquiz.cgi
 import random
 import os
 import cgi, cgitb
@@ -16,6 +19,13 @@ dic = {}
 name_set = set()
 route_set = set()
 routes = []
+correct_names = []
+correct_route_lists = []
+wrong_route_lists = []
+coordinates = []
+
+numQuestions = 5
+numChoices = 4
 
 #create dictionary from all lines
 #use station name as key
@@ -49,13 +59,7 @@ for i in route_set:
 	if i != '':
 		route_list.append(i)
 
-correct_names = []
-correct_route_lists = []
-wrong_route_lists = []
-coordinates = []
 
-numQuestions = 5
-numChoices = 4
 for i in range(0,numQuestions):
 	#choose one name in the name_list as correct answer
 	name = name_list[i]
@@ -91,9 +95,9 @@ if os.environ['REQUEST_METHOD'] == 'GET':
 	
 	#get numQuestions amout of questions
 	for i in range(0,numQuestions):
-		print 'Question '+str(i+1)
+		print "<h3>Question "+str(i+1)+"</h3>"
 		#get the station name
-		station_name = correct_names[i].split(',')[0]
+		station_name = correct_names[i].split(',')[1]
 		print "<p><li><b>" + 'Which line stops at '+station_name+'?'
 		#get the coordinates for web presentation
 		longitude =  coordinates[i][0]
@@ -124,9 +128,9 @@ if os.environ['REQUEST_METHOD'] == 'GET':
 			print "<input type=radio name=q"+str(i)+" value="+choices[j]+">"+choices[j]+"<br>"
 		print "</li>"
 		
-print "</OL><INPUT TYPE=SUBMIT ></FORM>"
-print "</body>"
-print "</html>"
+	print "</OL><INPUT TYPE=SUBMIT></FORM>"
+	print "</body>"
+	print "</html>"
 
 if os.environ['REQUEST_METHOD'] == 'POST':
 	num_Correct = 0
@@ -136,10 +140,10 @@ if os.environ['REQUEST_METHOD'] == 'POST':
 	for i in range(0, numQuestions):
 		if form["q"+str(i)].value in correct_route_lists[i]:
 			num_Correct += 1
-			correctAnswers.append(name_list[i])
+			correctAnswers.append(name_list[i].split(',')[1])
 		else:
 			num_Wrong += 1
-			wrongAnswers.append(name_list[i])
+			wrongAnswers.append(name_list[i].split(',')[1])
 
 	print "<html>"
 	print "<body>"

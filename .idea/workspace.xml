@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ost4/mapquiz.cgi" afterPath="$PROJECT_DIR$/ost4/mapquiz.cgi" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -233,24 +234,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hw4.cgi" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ost4/hw4.cgi">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="e#20#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mapquiz.cgi" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ost4/mapquiz.cgi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="107" column="30" lean-forward="true" selection-start-line="107" selection-start-column="30" selection-end-line="107" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="352">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#110#123#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -258,48 +249,8 @@
       <file leaf-file-name="StationEntrances.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ost4/StationEntrances.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40260">
-              <caret line="1830" column="28" lean-forward="false" selection-start-line="1830" selection-start-column="28" selection-end-line="1830" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/348993582/__builtin__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88044">
-              <caret line="4002" column="8" lean-forward="false" selection-start-line="4002" selection-start-column="8" selection-end-line="4002" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="t.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ost4/t.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="random.py" pinned="false" current-in-tab="false">
-        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6226">
-              <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jike_Flask_table/Flask_5_publish/lec2/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="209">
+              <caret line="1826" column="41" lean-forward="false" selection-start-line="1826" selection-start-column="41" selection-end-line="1826" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -316,8 +267,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>courses_info</find>
-      <find>search_times</find>
       <find>stylesheetstylesheet</find>
       <find>static_url_path</find>
       <find>url_for</find>
@@ -345,7 +294,9 @@
       <find>Dyre Av,Morris Park</find>
       <find>num</find>
       <find>grade</find>
+      <find>Morris Park</find>
       <find>cgi</find>
+      <find>calculus</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -1002,13 +953,6 @@
       <option name="presentableId" value="Default" />
       <updated>1485231489883</updated>
     </task>
-    <task id="LOCAL-00003" summary="pp">
-      <created>1485613265371</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1485613265371</updated>
-    </task>
     <task id="LOCAL-00004" summary="pp">
       <created>1485622268124</created>
       <option name="number" value="00004" />
@@ -1345,7 +1289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492364529470</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="pp">
+      <created>1492364534975</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1492364534975</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1391,7 +1342,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22398414" sideWeight="0.53457" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1865285" sideWeight="0.4974208" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2807148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25241995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10678871" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1802,14 +1753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ost4/StationEntrances.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40260">
-          <caret line="1830" column="28" lean-forward="false" selection-start-line="1830" selection-start-column="28" selection-end-line="1830" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ost4/hw4.cgi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1820,11 +1763,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ost4/StationEntrances.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="1826" column="41" lean-forward="false" selection-start-line="1826" selection-start-column="41" selection-end-line="1826" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ost4/mapquiz.cgi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="107" column="30" lean-forward="true" selection-start-line="107" selection-start-column="30" selection-end-line="107" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#110#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
