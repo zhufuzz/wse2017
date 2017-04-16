@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdde9ada-e6ea-4692-8643-a2b23b3c8f01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ost4/mapquiz.cgi" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ost4/hw4.cgi" afterPath="$PROJECT_DIR$/ost4/hw4.cgi" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -250,8 +248,8 @@
       <file leaf-file-name="mapquiz.cgi" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ost4/mapquiz.cgi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="88" column="52" lean-forward="false" selection-start-line="88" selection-start-column="52" selection-end-line="88" selection-end-column="52" />
+            <state relative-caret-position="726">
+              <caret line="107" column="30" lean-forward="true" selection-start-line="107" selection-start-column="30" selection-end-line="107" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -1004,13 +1002,6 @@
       <option name="presentableId" value="Default" />
       <updated>1485231489883</updated>
     </task>
-    <task id="LOCAL-00002" summary="pp">
-      <created>1485232450371</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1485232450371</updated>
-    </task>
     <task id="LOCAL-00003" summary="pp">
       <created>1485613265371</created>
       <option name="number" value="00003" />
@@ -1347,7 +1338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492303222142</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="pp">
+      <created>1492364529470</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1492364529470</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1824,8 +1822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ost4/mapquiz.cgi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="88" column="52" lean-forward="false" selection-start-line="88" selection-start-column="52" selection-end-line="88" selection-end-column="52" />
+        <state relative-caret-position="726">
+          <caret line="107" column="30" lean-forward="true" selection-start-line="107" selection-start-column="30" selection-end-line="107" selection-end-column="30" />
           <folding />
         </state>
       </provider>
