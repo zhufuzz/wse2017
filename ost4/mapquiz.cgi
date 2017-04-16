@@ -86,7 +86,7 @@ print "Content-type:text/html\n\n"
 if os.environ['REQUEST_METHOD'] == 'GET':
 	print "<html>"
 	print "<body>"
-	print "<h2>MTA Quiz</h2><FORM ACTION=hw4.cgi METHOD=POST><OL>"
+	print "<h2>MTA Quiz</h2><FORM ACTION=mapquiz.cgi METHOD=POST><OL>"
 	c = 0.0011
 	
 	#get numQuestions amout of questions
