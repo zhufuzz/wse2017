@@ -38,11 +38,11 @@ random.shuffle(verbs_key)
 random.shuffle(adjs_key)
 
 # parameters
-numQuestions = 10
+numQuestions = 1
 numOptions = 4
-numNouns = 4
-numVerbs = 3
-numAdjs = 3
+numNouns = 1
+numVerbs = 1
+numAdjs = 1
 
 # choose first random batch of vocabularies as questions
 chosenNounsKey = []
@@ -95,10 +95,10 @@ if os.environ['REQUEST_METHOD'] == 'GET':
 
 	for i in range(0, numNouns):
 		generateQuestion(nouns, nounsKeySets[i], i)
-	for j in range(0, numVerbs):
-		generateQuestion(verbs, verbsKeySets[j], j+numNouns)
-	for k in range(0, numAdjs):
-		generateQuestion(adjs, adjsKeySets[k], k+numNouns+numVerbs)	
+	# for j in range(0, numVerbs):
+	# 	generateQuestion(verbs, verbsKeySets[j], j+numNouns)
+	# for k in range(0, numAdjs):
+	# 	generateQuestion(adjs, adjsKeySets[k], k+numNouns+numVerbs)
 
 	print "</OL><INPUT TYPE=SUBMIT VALUE=Grade></FORM>"
 	print "</body>"
